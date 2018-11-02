@@ -1,2 +1,2 @@
 # presentations
-This repository host my public presentations
+This repository hosts my public presentations
