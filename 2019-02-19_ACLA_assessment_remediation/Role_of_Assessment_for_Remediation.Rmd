@@ -125,7 +125,11 @@ Create remediation sessions for "group" intervention.
 
 ## Preliminary Results
 
+![](images/remediation1819.jpg)
 
+## Compare non mandatrory
+
+![](images/remediation1718.jpg)
 
 # End
 
