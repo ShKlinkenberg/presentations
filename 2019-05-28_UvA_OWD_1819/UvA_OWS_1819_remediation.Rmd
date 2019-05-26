@@ -1,0 +1,158 @@
+---
+title: "Real-time remediation"
+subtitle: "UvA Education Day 2019"
+author: "Klinkenberg"
+date: "28 may 2019"
+output: 
+  ioslides_presentation:
+    logo: http://shklinkenberg.github.io/statistics-lectures/template/logo_uva.png
+    smaller: FALSE
+    css: http://shklinkenberg.github.io/statistics-lectures/styles/style.css
+    self_contained: TRUE
+---
+
+# Background
+
+## Sharon Klinkenberg
+
+* Senior Lecturer Psychological Methods Section, Psy.
+    * Scientific and Statistiscal Reasoning
+* Co-inventor [Math Garden](https://www.rekentuin.nl)
+* Board of Advisors [Oefenweb](https://www.oefenweb.nl)
+* Research on Computer Adaptive Testing
+* Chairman National Special Interest Group Digital Assessment
+* Chairman TestVision Assosiation
+* Chairman Works Council FMG UvA
+
+# Deliberate practice
+
+## Anders Ericsson {.flexbox .vcenter}
+
+<iframe style="width:760px; height:415px;" src="https://www.youtube.com/embed/uoUHlZP094Q?start=140" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## In educator {data-background=images/education_cycle_uva.png data-background-size=cover}
+
+
+
+# Scientific and statistical reasoning
+
+## Course outline
+
+Bachelor year 2 with around 350 students
+
+### Block I / IV
+
+![Course outline](images/Course_design-eps-converted-to.jpg)
+
+## Course outline
+
+* Lectures
+* SG: Mandatory study groups
+* FA: Digital formative assessment
+* PA: Preparatory assignments
+* RM: Remediation
+* WIS: Walk-in sessions 
+* AE: Argumentation essay (Bonus)
+* Exam: Mid term exam
+
+$$\text{Final grade} = \overline{Exam} +\overline{AE} - SG - FA - PA - RM$$
+
+## Deduction points
+
+| Not met | SG        | PA        | FA         | RM        |
+|--------:|-----------|-----------|------------|-----------|
+| 1x      | 0         | 0         | 0          | 0         |
+| 2x      | 0.25      | 0.1       | 0.1        | 0.25      |
+| 3x      | 0.75      | 0.25      | 0.25       | 0.75      |
+| 4x      | 1.5       | 0.5       | 0.5        | 1.5       |
+| 5x      | 3         | 1         | 1          | 3         |
+| 6x      | Exclusion | Exclusion | Exclusion  | Exclusion |
+
+# Instruction
+
+## Instruction
+
+* Lectures / Weblectures
+* Knowledge clips
+* Book
+
+# Practice
+
+## Practice
+
+* Prepatory assignments
+* Tutorials
+* Digital formative assessment
+
+## Digital formative assessment
+
+![Formative assessment example](images/formative_assessment_example-eps-converted-to.jpg)
+
+## Digital formative assessment
+
+* [Testvision](https://uva.testvision.nl/online/fe/login_tvb.htm)
+
+## Digital formative assessment
+
+* 14 Formative assessments
+* No points are given
+* Only deduction for not making the assignments
+
+# Assessment
+
+## Assessment
+
+* Weekly formative assessment
+* Tutorials
+* Exams
+
+## Exam {.flexbox .vcenter}
+
+![Exam hall](images/zaal.png)
+
+------
+
+![](images/Summative_Assessment_example.jpg)
+
+# Diagnostics
+
+## Diagnostics {.smaller}
+
+Use categorised results of assesment to diagnose problems.
+
+![Diagnostics](images/digagnostics_remindo.png)
+
+# Remediation
+
+## Remediation
+
+Create remediation sessions for "group" intervention.
+
+* Based on interim exam 1 and 2
+* Select lowest 25%
+* __Mandatory__
+
+## Preliminary Results
+
+![](images/remediation1819.jpg)
+
+## Compare non mandatrory
+
+![](images/remediation1718.jpg)
+
+## Course grade
+
+<img style="width:90%;" src="images/grades.png">
+
+# End
+
+<script src="https://use.fontawesome.com/23c1d38eea.js"></script>
+
+
+<ul class="fa-ul" style="color:lightgrey;">
+<li><i class="fa-li fa fa-twitter"></i> <a href="https://twitter.com/shklinkenberg" target="_blank" style="color:lightgrey; border-bottom:none;">@shklinkenberg</a></li>
+<li><i class="fa-li fa fa-linkedin-square"></i> <a href="https://www.linkedin.com/in/sharonklinkenberg/" target="_blank" style="color:lightgrey; border-bottom:none;">Klinkenberg</a></li>
+<li><i class="fa-li fa fa-envelope-o"></i> <a style="unicode-bidi:bidi-override; direction: rtl; color:lightgrey" href="javascript:window.location.href = 'mailto:' + ['s.klinkenberg','uva.nl'].join('@')">ln.AvU@grebneknilK.S</a></li>
+<li><i class="fa-li fa fa-github"></i> <a href="https://github.com/ShKlinkenberg" target="_blank" style="color:lightgrey; border-bottom:none;">ShKlinkenberg</a></li>
+</ul>
+
