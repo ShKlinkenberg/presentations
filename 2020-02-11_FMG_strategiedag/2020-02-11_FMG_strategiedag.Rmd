@@ -1,0 +1,52 @@
+---
+title    : "TLC Pitch"
+subtitle : "Kwaliteitsborging met minder middelen" 
+author   : Sharon Klinkenberg
+date     : 11 februari 2020
+output: 
+  revealjs::revealjs_presentation:
+    css: ["/webfiles/1575453891802/2018/css/app.min.css", "logo.css"]
+    theme: white #simple #black
+    highlight: pygments
+    transition: slide #fade #slide
+    background_transition: slide
+    center: true
+    self_contained: false
+    reveal_plugins: ["chalkboard"]
+    reveal_options:
+      slideNumber: true
+      previewLinks: true
+---
+
+# Kwaliteit {data-background=#BC0031}
+
+## Slide with Bullets
+
+* Leerdoelen
+* [Absolute Cesuur](https://www.toetsen-examineren.nl/toetskwaliteit/de-absolute-cesuur/)
+* Slagingspercentage
+* Didactiek
+* Tijdsinvestering
+
+# Assessment drives learning {data-background=#BC0031}
+
+## Formatief Toetsen 
+
+* Niet alleen kennis toetsjes
+* Toetsen en leren ingegreren
+* Didactisch opgebouwde leermodule
+
+## Summatief Toetsen
+
+* Authentiek toetsen
+* Logistieke inrichting
+* Slimme regels
+
+# {data-background=#BC0031}
+
+<img src="images/Kwalitatief_goed_onderwijs.jpg">
+
+
+## {data-background-iframe="https://padlet.com/s_klinkenberg1/bkosselu8lcd"}
+
+# Dank voor uw aandacht {data-background=#BC0031}
