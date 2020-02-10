@@ -69,10 +69,12 @@ output:
 
 ## {data-background-iframe="https://padlet.com/s_klinkenberg1/bkosselu8lcd"}
 
-# Dank voor uw aandacht {data-background=#BC0031}
+# Link presentatie {data-background=#E98300}
 
-## Deze presentatie {data-background=#E98300}
+##
 
 > [qrgo.page.link/RbNSg](https://qrgo.page.link/RbNSg)
 
 ![](images/TLC_FMG_strategiedag_2020.png)
+
+## Dank voor uw aandacht {data-background=#BC0031}
