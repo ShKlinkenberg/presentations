@@ -12,17 +12,27 @@ output:
     background_transition: slide
     center: true
     self_contained: false
-    reveal_plugins: ["chalkboard"]
+ #   reveal_plugins: ["chalkboard"]
     reveal_options:
       slideNumber: true
       previewLinks: true
 ---
 
+## {data-background=#BC0031}
+
+<img style="border:0px; background-color:transparent;" src="images/TLC_logo.png">
+
+## Sign-Up
+
+<img src="images/TLC_sign-up.png">
+
+[datanose.nl/#tlc](http://datanose.nl/#tlc)
+
 # Kwaliteit {data-background=#BC0031}
 
-## Slide with Bullets
+## Vakinhoudelijk
 
-* Leerdoelen
+* Leerdoelen (wat wel/niet)
 * [Absolute Cesuur](https://www.toetsen-examineren.nl/toetskwaliteit/de-absolute-cesuur/)
 * Slagingspercentage
 * Didactiek
@@ -30,11 +40,18 @@ output:
 
 # Assessment drives learning {data-background=#BC0031}
 
+##
+
+<p class="c-bibliographic-information__citation">Muijtjens, A., Hoogenboom, R., Verwijnen, G. <i>et al.</i> Relative or Absolute Standards in Assessing Medical Knowledge Using Progress Tests.
+<i>Adv Health Sci Educ Theory Pract</i> <b>3, </b>81–87 (1998). https://doi.org/10.1023/A:1009728423412</p>
+
 ## Formatief Toetsen 
 
 * Niet alleen kennis toetsjes
 * Toetsen en leren ingegreren
 * Didactisch opgebouwde leermodule
+
+[Example](https://uva.testvision.nl/online/fe/login_tvb.htm)
 
 ## Summatief Toetsen
 
@@ -42,10 +59,13 @@ output:
 * Logistieke inrichting
 * Slimme regels
 
-# {data-background=#BC0031}
+[Example](https://icto-psy.github.io/workflow_digital_assessment/pre_exam_workflow.html)
+
+# Padlet {data-background=#BC0031}
+
+##
 
 <img src="images/Kwalitatief_goed_onderwijs.jpg">
-
 
 ## {data-background-iframe="https://padlet.com/s_klinkenberg1/bkosselu8lcd"}
 
