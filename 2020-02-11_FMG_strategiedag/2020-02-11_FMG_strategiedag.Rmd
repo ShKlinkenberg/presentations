@@ -22,7 +22,7 @@ output:
 
 <img style="all: initial; * { all: unset; }; width:50%;" src="images/TLC_logo.png">
 
-## Sign-Up
+## Aanmelden
 
 <img src="images/TLC_sign-up.png">
 
@@ -51,7 +51,7 @@ output:
 * Toetsen en leren ingegreren
 * Didactisch opgebouwde leermodule
 
-[Example](https://uva.testvision.nl/online/fe/login_tvb.htm)
+[Voorbeeld](https://uva.testvision.nl/online/fe/login_tvb.htm)
 
 ## Summatief Toetsen
 
@@ -59,7 +59,7 @@ output:
 * Logistieke inrichting
 * Slimme regels
 
-[Example](https://icto-psy.github.io/workflow_digital_assessment/pre_exam_workflow.html)
+[Voorbeeld](https://icto-psy.github.io/workflow_digital_assessment/pre_exam_workflow.html)
 
 # Padlet {data-background=#BC0031}
 
@@ -70,3 +70,9 @@ output:
 ## {data-background-iframe="https://padlet.com/s_klinkenberg1/bkosselu8lcd"}
 
 # Dank voor uw aandacht {data-background=#BC0031}
+
+## Deze presentatie {data-background=#E98300}
+
+> [qrgo.page.link/RbNSg](https://qrgo.page.link/RbNSg)
+
+![](images/TLC_FMG_strategiedag_2020.png)
