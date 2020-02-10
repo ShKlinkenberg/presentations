@@ -1,7 +1,7 @@
 ---
-title    : "TLC Pitch"
-subtitle : "Kwaliteitsborging met minder middelen" 
-author   : Sharon Klinkenberg
+title    : "<span style='font-size:70%;'>Hoe kunnen we kwalitatief goed onderwijs blijven aanbieden?</span>"
+subtitle : "" 
+author   : "<span style='font-size:50%;'>Sharon Klinkenberg</span>"
 date     : 11 februari 2020
 output: 
   revealjs::revealjs_presentation:
@@ -18,9 +18,9 @@ output:
       previewLinks: true
 ---
 
-## {data-background=#BC0031}
+## {data-background=#E98300}
 
-<img style="border:0px; background-color:transparent;" src="images/TLC_logo.png">
+<img style="all: initial; * { all: unset; }; width:50%;" src="images/TLC_logo.png">
 
 ## Sign-Up
 
