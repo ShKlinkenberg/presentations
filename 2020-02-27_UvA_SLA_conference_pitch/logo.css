@@ -1,0 +1,7 @@
+body:after {
+content: url(images/webimage-494A554C-6A0D-4BEB-A313B7D01B7D2823.png);  
+/* content: url(https://shklinkenberg.github.io/uva_style/images/logo_uva.png); */
+position: fixed;
+top: 1.5em;
+left: 1.5em;
+}

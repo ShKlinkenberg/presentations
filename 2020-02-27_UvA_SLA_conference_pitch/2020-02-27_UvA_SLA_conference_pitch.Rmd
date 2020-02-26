@@ -1,0 +1,58 @@
+---
+title    : "<span style='font-size:70%;'>Pitch</span>"
+subtitle : "Authentiek toetsen in de cloud" 
+author   : "<span style='font-size:50%;'>Sharon Klinkenberg</span>"
+date     : 27 februari 2020
+output: 
+  revealjs::revealjs_presentation:
+    css: ["/webfiles/1575453891802/2018/css/app.min.css", "logo.css"]
+    theme: white #simple #black
+    highlight: pygments
+    transition: slide #fade #slide
+    background_transition: slide
+    center: true
+    self_contained: false
+ #   reveal_plugins: ["chalkboard"]
+    reveal_options:
+      slideNumber: true
+      previewLinks: true
+---
+
+# Beroepssoftware {data-background=#E98300}
+
+##
+
+<iframe width="840" height="473" src="https://www.youtube.com/embed/GbKHIoMxi0A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+# Digitaal Toetsen aan de UvA {data-background=#BC0031}
+
+## {data-background="images/zaal.png" data-background-size=contain}
+
+# Niet schaalbaar
+
+## {data-background="images/Digitale-toetszaal-UU.jpg" data-background-size=cover}
+
+# Beperking
+
+##
+
+> Geen desktop $\neq$ Authentiek toetsen
+
+# Cloud {data-background=#BC0031}
+
+## {data-background="https://communities.surf.nl/files/styles/image_paragraph_large/public/paragraph/image/8fc195dbea0df6ce8b1177e030024833_surf-sig-dt-24-05-2019vmvisualv4.jpg?itok=3H8H3eFH" data-background-size=contain}
+
+## SIG Digitaal Toetsen
+
+> [Naar een inrichtingsmodel voor flexibele en veilige toetsafname](https://communities.surf.nl/artikel/naar-een-inrichtingsmodel-voor-flexibele-en-veilige-toetsafname)
+
+# Link presentatie {data-background=#E98300}
+
+##
+
+> [qrgo.page.link/RbNSg](https://qrgo.page.link/RbNSg)
+
+
+
+## Dank voor uw aandacht {data-background=#BC0031}
