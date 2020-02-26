@@ -47,12 +47,14 @@ output:
 
 > [Naar een inrichtingsmodel voor flexibele en veilige toetsafname](https://communities.surf.nl/artikel/naar-een-inrichtingsmodel-voor-flexibele-en-veilige-toetsafname)
 
-# Link presentatie {data-background=#E98300}
 
-##
+# Dank voor uw aandacht {data-background=#BC0031}
 
-> [qrgo.page.link/RbNSg](https://qrgo.page.link/RbNSg)
+## Link presentatie
+
+> [qrgo.page.link/kPV34](https://qrgo.page.link/kPV34)
+
+![](images/QR_SLA_pitch_klinkenberg.png)
 
 
 
-## Dank voor uw aandacht {data-background=#BC0031}
