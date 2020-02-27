@@ -14,8 +14,10 @@ output:
     self_contained: false
  #   reveal_plugins: ["chalkboard"]
     reveal_options:
+      navigationMode: 'linear'
       slideNumber: true
       previewLinks: true
+      
 ---
 
 # Beroepssoftware {data-background=#E98300}
