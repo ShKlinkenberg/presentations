@@ -6,4 +6,4 @@ This repository hosts my public presentations
 * [UvA EDUCATION DAY 2019](https://shklinkenberg.github.io/presentations/2019-05-28_UvA_OWD_1819/UvA_OWS_1819_remediation.html#1)
 * [FMG strategiedag 2020](https://shklinkenberg.github.io/presentations/2020-02-11_FMG_strategiedag/2020-02-11_FMG_strategiedag.html)
 * [UvA SLA conferentie pitch: Authentiek toetsen in de cloud](https://shklinkenberg.github.io/presentations/2020-02-27_UvA_SLA_conference_pitch/2020-02-27_UvA_SLA_conference_pitch.html)
-* [PMLambs 2020](https://shklinkenberg.github.io/presentations/2020-11-20_PMLabs/PMLabs-poster-2020.html)
+* [PMLabs 2020](https://shklinkenberg.github.io/presentations/2020-11-20_PMLabs/PMLabs-poster-2020.html)
