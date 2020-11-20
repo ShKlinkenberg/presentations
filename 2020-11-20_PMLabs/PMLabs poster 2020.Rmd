@@ -1,0 +1,102 @@
+---
+title: "Research & Projects"
+author: "Sharon Klinkenberg"
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+  flexdashboard::flex_dashboard:
+    logo: http://shklinkenberg.github.io//statistics-lectures/template/logo_uva.png
+    orientation: col
+    social: menu
+    source_code: embed
+    vertical_layout: fill
+    navbar:
+      - { icon: "ion-android-contact", title: "Contact", href: "http://www.uva.nl/en/profile/k/l/s.klinkenberg/s.klinkenberg.html", align: right }
+      - { icon: "fa-download", title: "Poster", href: "poster.pdf", align: right }
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+```
+
+Inputs {.sidebar}
+-----------------------------------------------------------------------
+
+<h1>About</h1>
+
+<img style="width:35%; float:left; margin:0 10px 0px 0;" src="http://www.klinkenberg.amsterdam/img/klinkenberg_1.jpg">
+
+Sharon Klinkenberg is a lecturer at the department of Psychology. His teaching is mainly focussed on statistics and Psychological methods. Sharon is an educational innovator at the forefront of educational technology. His research is focussed on the validity and reliability of adaptive assessment methods and the effectiveness of blended learning interventions.
+
+__Contact__
+
+<script src="https://use.fontawesome.com/23c1d38eea.js"></script>
+
+<ul class="fa-ul" style="color:black; list-style:none;">
+<li><i class="fa-li fa fa-twitter"></i> <a href="https://twitter.com/shklinkenberg" target="_blank" style="color:black; border-bottom:none;">@shklinkenberg</a></li>
+<li><i class="fa-li fa fa-linkedin-square"></i> <a href="https://www.linkedin.com/in/sharonklinkenberg/" target="_blank" style="color:black; border-bottom:none;">Klinkenberg</a></li>
+<li><i class="fa-li fa fa-envelope-o"></i> <a style="unicode-bidi:bidi-override; direction: rtl; color:black" href="javascript:window.location.href = 'mailto:' + ['s.klinkenberg','uva.nl'].join('@')">ln.AvU@grebneknilK.S</a></li>
+<li><i class="fa-li fa fa-github"></i> <a href="https://github.com/ShKlinkenberg" target="_blank" style="color:black; border-bottom:none;">ShKlinkenberg</a></li>
+</ul>
+
+Column {data-width=500}
+-----------------------------------------------------------------------
+
+### Dissertation coming up
+
+A psychometric perspective onpersonalized assessment in education.
+
+* Reliability of random administerred items
+* Math Garden reliability and validity
+* Item discrimination for paired comparison models
+* Math anxiety
+
+### ShareStats
+
+<div>
+<img height="30" src="https://www.sharestats.nl/images/InfShareStatsBL.png">
+</div>
+
+Creating an open statistics assessment itembank. Using Rmarkdown to compile items with the R-exams package to any format.
+
+* ***Looking for student assistent*** with MySQL and markdown skills 
+
+### Teaching
+
+Scientific & Statisticql Reasoning (Psychology)
+
+* [All lecture slides](http://shklinkenberg.github.io/statistics-lectures/2020-2021_SSR.html)
+* [All online lectures](https://www.youtube.com/channel/UCt9z-wt6x8TbgJWCCSges8w/playlists?view_as=subscriber)
+
+Fylosophy of Science & Statistical Reasoning (Psychobiology)
+
+
+
+Column
+-----------------------------------------------------------------------
+
+### National Workgroup Distance Assessment
+
+<div>
+<img style="background-color: #1a6ecc; padding: 2px; width:40%;" src="https://versnellingsplan.nl/wp-content/uploads/2020/02/logo-1.svg">
+</div>
+
+Leading the national workgroup on distance assessment.
+
+In search for a solution for online summative assessment. How do we assess large groups of students during the COVID crisis? How to do online proctoring and assessment right?
+
+### FMG Teaching & Learning Centre
+
+<div>
+<img height="40" src="FMG_Cirkel.png">
+</div>
+
+Co-director of the FMG Teaching & Learning Centre. Focussed on the transition to online education.
+
+* [Keep on Teaching](http://tlc.uva.nl/article-faculty/keep-on-teaching-nl/)
+* [Educational Redesign Aid](https://tlc-uva.github.io/educational-redesign-aid/)
+* [Statistics Videos](https://tlc-uva.github.io/statistics-videos/stat_video_list.html)
+
+
+
+
