@@ -1,15 +1,22 @@
 ---
 title: "Remote proctoring"
 author: "Sharon Klinkenberg"
-output: revealjs::revealjs_presentation
+output:
+  revealjs::revealjs_presentation:
+    theme: white
+    highlight: pygments
+    center: true
 ---
 
 * Docent aan de Universiteit van Amsterdam
-* Mede uitvinder Rekentuin
 * Onderzoek computer adaptief toetsen
 * Voorzitter opleidingscommissie
 * Voorzitter Special Interest Group Digitaal Toetsen
 * Lid van de Werkgroep Toetsen op Afstand
+
+# Versnellingplan
+
+De [Werkgroep Toetsen op Afstand](http://www.versnellingsplan.nl/werkgroep-toetsen-op-afstand/) is onderdeel van het versnellingsplan onderwijsinnovatie met ICT.
 
 # NRO Symposium hoger onderwijs
 
@@ -30,23 +37,42 @@ Essays, posters en kennisclips van:
 * Versneld ingevoerd
 * Plaats en tijd onafhankelijk extra
 
-## Plaatsonafhankelijk {data-background=young-woman-with-laptop-computer-for-homework-tired-hispanic-girl-and-college-educatio-SBI-310097751.jpg}
+## Plaatsonafhankelijk {data-background=young-woman-with-laptop-computer-for-homework-tired-hispanic-girl-and-college-educatio-SBI-310097751.jpg #white}
+
+<br><br><br><br><br><br>
 
 ## Tijdonafhankelijk {data-background=vector-abstract-line-art-texture-SBI-300528717.png}
 
+<br><br><br><br><br><br><br><br>
+
 ## Toekomstperspectief
 
-## Waarom niet alleen formatief
+* Studenten met functie beperking
+* Speciale groepen (topsporters)
+* Toelatings toetsen
+* Keuze voor stuenten
 
-```{r, echo=FALSE, fig.align='center', fig.dim="1"}
+## Alleen formatief?
+
+```{r, echo=FALSE, fig.align='center', fig.asp=1, fig.width=6}
+set.seed(154)
 x = rnorm(100)
-y = x + rnorm(100, 0, 2)
+y = x + rnorm(100, 0, 3)
 
-plot(x,y, xlab="Summatief", ylab="Formatief", xaxt="n", yaxt="n")
+q.x = quantile(x, .55)
+q.y = quantile(y, .55)
+
+plot(x,y, xlab="Formatief", ylab="Summatief", xaxt="n", yaxt="n", main = paste("Correlatie =", round(cor(x,y),2)))
+
+polygon(c(q.x,4,4,q.x),c(q.y,q.y,-8,-8),col = rgb(1,0,0,.5))
+polygon(c(q.x,-8,-8,q.x),c(q.y,q.y,10,10),col = rgb(1,0,0,.5))
 ```
 
-
 # Conclusie
+
+> * Tijd onafhankelijk nog te voorbarig
+> * Plaats onafhankelijk is mogelijk
+> * Formatief toetsen is geen vervanging
 
 # Contact
 
