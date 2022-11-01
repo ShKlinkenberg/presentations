@@ -1,0 +1,30 @@
+# project:
+#   output-dir: ../slides/
+author: "Sharon Klinkenberg"
+institute: "University of Amsterdam"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    toc-location: left
+  revealjs:
+    smaller: false
+    linkcolor: '#BC0031'
+    logo: https://shklinkenberg.github.io/uva_style/images/logo_uva.png
+    transition: slide
+    background-transition: fade
+    theme: white
+    slide-number: true
+    css: https://shklinkenberg.github.io/statistics-lectures/courses/uva_reveal.css
+    touch: true
+    # footer: "Klinkenberg"
+    google-analytics: "UA-107432294-1"
+    title-slide-attributes:
+      data-background-image: https://shklinkenberg.github.io/uva_style/images/uva_bg.jpg
+      data-background-size: contain
+      data-background-position: bottom
+      
+# project:
+#   output-dir: ../handouts/
+# format:
+

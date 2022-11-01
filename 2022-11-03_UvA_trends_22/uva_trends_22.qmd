@@ -1,0 +1,51 @@
+---
+title: "UvA DLO Trends 22"
+author: "Klinkenberg"
+format: revealjs
+editor: visual
+---
+
+# Welcome {data-background=#BC0031}
+
+## Program
+
+# Wrap-up {data-background=#BC0031}
+
+## Parrallel sessions
+
+## Future perspectives on assessment
+
+::: {.columns}
+
+::: {.column}
+
+<small>
+
+![](https://www.versnellingsplan.nl/wp-content/uploads/2021/07/VO_alg_NL.png)
+
+Report on future perspectives of assessment
+
+Werkgroep toetsen op afstand
+
+* Sharon Klinkenberg
+* Annette Peet
+* Marjoleine Dobbelear
+* Edwin 
+
+</small>
+
+:::
+
+::: {.column}
+
+![](7wf6q~.png)
+
+:::
+
+:::
+
+## 5 dimensions
+
+![](Dimensions.png)
+
+# Thank you for attending {data-background=#BC0031}
