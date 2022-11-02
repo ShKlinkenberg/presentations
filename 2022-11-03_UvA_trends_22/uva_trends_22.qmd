@@ -1,51 +1,94 @@
 ---
-title: "UvA DLO Trends 22"
+title: "UvA Trends 22"
+subtitle: "Trends in digital assessment"
 author: "Klinkenberg"
 format: revealjs
-editor: visual
 ---
 
-# Welcome {data-background=#BC0031}
+# Welcome {data-background="#BC0031"}
 
-## Program
+::: {.notes}
+![](6aa6u~.png)
+:::
 
-# Wrap-up {data-background=#BC0031}
+## Sharon Klinkenberg
+
+:::: {.columns}
+
+::: {.column width=30%}
+
+![](https://www.klinkenberg.amsterdam/author/sharon-klinkenberg/avatar_hu809d6daa59c7c2f61bef6ed94abe6e86_539318_270x270_fill_q75_lanczos_center.jpg){style="border-radius: 50%;"}
+
+:::
+
+::: {.column style="font-size: 80%;" width=70% }
+
+* Lecturer at the department of Psychology
+* Co-director of the Teaching & Learning Centre of the Faculty of Social and Behavioural Sciences 
+* Chair of the Program committee for Psychobiology
+* Chair of the special interest group on digital assessment
+* Member of the national Working group Remote digital assessment
+
+:::
+
+::::
+
+## Program {.smaller data-background="#BC0031"}
+
+* 13:05 Opening speech by **UvA rector magnificus Peter-Paul Verbeek**
+* 13:10 Keynote speech by **Dr Nick Saville** followed by a short Q&A
+* 14:00 Break
+* 14:10 Parallel sessions
+    * **Dr Bert Bredeweg** | The potential for Artificial
+Intelligence in Education
+    * **Eva Stoica** | A Student’s Take on Challenges of
+AI-driven Grading in Higher Education
+    * **Drs Tom Slöetjes** | MS teams as a powerfull
+learning environment
+* 15:00 Break
+* 15:15 Plenary session - Wrap up, workshop results and closing remark
+* 16:00 Network session with drinks
+* 17:00 End of conference
+
+# Wrap-up {data-background="#BC0031"}
 
 ## Parrallel sessions
 
+> * **Dr Bert Bredeweg** | The potential for Artificial
+Intelligence in Education
+> * **Eva Stoica** | A Student’s Take on Challenges of
+AI-driven Grading in Higher Education
+> * **Drs Tom Slöetjes** | MS teams as a powerfull
+
 ## Future perspectives on assessment
 
-::: {.columns}
-
-::: {.column}
-
+::: columns
+::: column
 <small>
 
 ![](https://www.versnellingsplan.nl/wp-content/uploads/2021/07/VO_alg_NL.png)
 
-Report on future perspectives of assessment
+Report: future perspectives on assessment
 
 Werkgroep toetsen op afstand
 
-* Sharon Klinkenberg
-* Annette Peet
-* Marjoleine Dobbelear
-* Edwin 
+-   Sharon Klinkenberg
+-   Annette Peet
+-   Marjoleine Dobbelaer
+-   Edwin Buijs
 
 </small>
-
 :::
 
-::: {.column}
-
+::: column
 ![](7wf6q~.png)
-
 :::
-
 :::
 
 ## 5 dimensions
 
 ![](Dimensions.png)
 
-# Thank you for attending {data-background=#BC0031}
+# Thank you for attending {data-background="#BC0031"}
+
+# Network session with drinks
