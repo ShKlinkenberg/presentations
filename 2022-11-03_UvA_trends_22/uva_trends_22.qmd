@@ -8,7 +8,7 @@ format: revealjs
 # Welcome {data-background="#BC0031"}
 
 ::: {.notes}
-![](6aa6u~.png)
+
 Mogelijk gemaakt door DLO board en TLC
 
 Sharon Klinkenberg
@@ -33,6 +33,10 @@ Brought to you by:
 
 * DLO board
 * TLC
+
+## UvA Trends website {.center}
+
+![](6aa6u~.png)
 
 ## Program {.smaller data-background="#BC0031"}
 
