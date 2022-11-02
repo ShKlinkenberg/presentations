@@ -1,7 +1,7 @@
 ---
 title: "UvA Trends 22"
 subtitle: "Trends in digital assessment"
-author: "Klinkenberg"
+author: ""
 format: revealjs
 ---
 
@@ -9,19 +9,9 @@ format: revealjs
 
 ::: {.notes}
 ![](6aa6u~.png)
-:::
+Mogelijk gemaakt door DLO board en TLC
 
-## Sharon Klinkenberg
-
-:::: {.columns}
-
-::: {.column width=30%}
-
-![](https://www.klinkenberg.amsterdam/author/sharon-klinkenberg/avatar_hu809d6daa59c7c2f61bef6ed94abe6e86_539318_270x270_fill_q75_lanczos_center.jpg){style="border-radius: 50%;"}
-
-:::
-
-::: {.column style="font-size: 80%;" width=70% }
+Sharon Klinkenberg
 
 * Lecturer at the department of Psychology
 * Co-director of the Teaching & Learning Centre of the Faculty of Social and Behavioural Sciences 
@@ -31,7 +21,18 @@ format: revealjs
 
 :::
 
-::::
+## UvA Trends
+
+> Trends in digital assessment
+
+> * Inform, share and enrich key stakeholders on trends and developments in the digital learning space
+> * Retrieve opinions, reactions and viewpoints
+> * Report on these findings for strategic purposes
+
+Brought to you by:
+
+* DLO board
+* TLC
 
 ## Program {.smaller data-background="#BC0031"}
 
@@ -49,6 +50,12 @@ learning environment
 * 15:15 Plenary session - Wrap up, workshop results and closing remark
 * 16:00 Network session with drinks
 * 17:00 End of conference
+
+# UvA rector magnificus Peter-Paul Verbeek
+
+# Dr Nick Saville {data-background="#BC0031"}
+
+# Parrallel sessions
 
 # Wrap-up {data-background="#BC0031"}
 
@@ -89,6 +96,17 @@ Werkgroep toetsen op afstand
 
 ![](Dimensions.png)
 
-# Thank you for attending {data-background="#BC0031"}
+## Special thanks to {data-background="#BC0031"}
+
+Program committee
+
+- Arthur
+- Mariska
+- Annemarie
+- David
+- Sjoukje
+- Stephen
 
 # Network session with drinks
+
+# Thank you for attending {data-background="#BC0031"}
