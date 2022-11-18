@@ -1,0 +1,72 @@
+---
+title: "Co-Creating the Future of Learning" 
+author: "Klinkenberg"
+date: "17 jun 2026"
+format:
+#  pdf:
+#    toc: true
+#    number-sections: false
+#    colorlinks: true
+#    brand: _brand.yml
+  revealjs:
+    theme: [default]
+    transition: slide
+    background-transition: fade
+    preview-links: false
+    slide-number: true
+    link-external-newwindow: true
+---
+
+# Introduction
+
+::: notes
+Goal: inspire, but also be realistic about what works and what doesn't. Audience: ICT professionals
+:::
+
+## Overview {.smaller}
+
+:::: {.columns .smaller}
+
+::: {.column width="50%"}
+
+**Personalized Learning and Media Diversity**
+
+- One-size-fits-all vs One-of-a-kind
+- Narratives across modalities
+- Through the learner’s eyes (or ears)
+- Learning Without Borders
+
+**Emerging Technologies and AI in Education**
+
+- From passive media to generative co-creation
+- Augmented agency: learners, media agents & AI companions
+- Learning analytics–driven media iteration & feedback loops
+- Future-ready media skills
+
+:::
+
+::: {.column width="50%"}
+
+**Assessment and Cognitive Design**
+
+- Rethinking assessment: from exams to experiences
+- Gamification & playful design
+- Cognition without overload
+
+**Sustainability and Responsibility in Media**
+
+- Media, memory & futures
+- Responsibility by design: evidence and myths in learning technology
+- Beyond the degree
+
+:::
+
+::::
+
+# Personalized Learning and Media Diversity
+
+# Emerging Technologies and AI in Education
+
+# Assessment and Cognitive Design
+
+# Emerging Technologies and AI in Education
