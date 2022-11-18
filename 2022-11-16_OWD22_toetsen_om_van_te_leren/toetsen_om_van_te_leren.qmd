@@ -1,0 +1,93 @@
+---
+title: "Toetsdata<br>om van te leren"
+author: "Sharon Klinkenberg"
+format: revealjs
+linkcolor: '#e67300'
+logo: SIG-DT-logo_surf_transparant.png
+institute: "SIG Digitaal Toetsen"
+title-slide-attributes:
+  data-background-image: pexels-mikhail-nilov-9159047.jpg
+---
+
+# Even voorstellen {data-background="#e67300"}
+
+## Panel
+
+::: columns
+::: column
+![Ludo van Meeuwen](ludo.jpeg){fig-align="left" width="300"}
+:::
+
+::: column
+![Erwin Van Vliet](erwin.jpeg){fig-align="left" width="300"}
+:::
+:::
+
+# Droom scenario {data-background="#e67300"}
+
+## Waarom toetsen
+
+::: columns
+::: column
+<small>
+
+> We willen naar veel minder toetsen.
+
+> We leggen nu een te grote nadruk op presteren in plaats van leren.
+
+> We willen van een toetscultuur naar een feedbackcultuur.
+
+> Cijfers belemmeren het leren, het wordt tijd dat we daarmee stoppen.
+
+</small>
+:::
+
+::: column
+[TOETSING ALS ONDERZOEK NAAR HET LEERPROCES](https://toetsrevolutie.nl/?p=3929&trk=public_post_embed_feed-article-content)
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6997219375317446656" height="427" width="500" frameborder="0" allowfullscreen title="Embedded post">
+
+</iframe>
+:::
+:::
+
+## Toets als diagnostisch instrument {data-background="pexels-pixabay-40568.jpg"}
+
+# Discussie {data-background="#e67300"}
+
+## Padlet {.center}
+
+::: {.padlet-embed style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:480px;height:352px;max-width:100%"}
+<iframe src="https://padlet.com/padlets/u17a9653l1ic2ahd/embeds/preview_embed" style="width:100%;height:100%;display:block;padding:0;margin:0" frameborder="0">
+
+</iframe>
+:::
+
+# Niet vergeten {data-background="#e67300"}
+
+## Rapport Toekomstperspectieven
+
+::: columns
+::: column
+Toekomstperspectief op (digitaal) toetsen en beoordelen.
+:::
+
+::: column
+![](7wf6q~.png)
+:::
+:::
+
+## Toets2daagse
+
+::: columns
+::: column
+-   Toetsen en leren in balans
+-   6 & 7 december 2022
+:::
+
+::: column
+![](ucqej~.png)
+:::
+:::
+
+# Dank voor uw aandacht {data-background="#e67300"}
