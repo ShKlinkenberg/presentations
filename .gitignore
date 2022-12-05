@@ -2,4 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
+<<<<<<< HEAD
 .DS_Store
+=======
+
+/.quarto/
+>>>>>>> 88f28d9c6e991059e38fe0be81e6b2987dc44373

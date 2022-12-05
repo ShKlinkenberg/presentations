@@ -1,0 +1,173 @@
+---
+title: "Digitaal toetsen organiseer je zo"
+author: "Sharon Klinkenberg"
+date: "6 dec 2022"
+format: revealjs
+linkcolor: '#e67300'
+logo: ../images/SIG-DT-logo_surf_transparant.png
+institute: "Universiteit van Amsterdam"
+title-slide-attributes:
+  data-background-image: https://communities.surf.nl/files/styles/surf_content_wide/public/2020-02/Digitale-toetszaal-UU.jpg?h=98a9ecf7&itok=Zgd6Gslv
+---
+
+# Digitaal toetsen organiseer je zo {data-background="#e67300"}
+
+In het digitale toetsproces zijn veel keuzes te maken, afhankelijk van de instelling, organisatiecultuur en beschikbare middelen. In deze sessie gaan we in op alle betrokken actoren in het toetsproces en hoe je komt tot een werkproces binnen de instelling of afdeling. We bespreken voor- en nadelen voor een meer gecentraliseerde of decentrale aanpak en brengen de verschillende werkwijzen in kaart.
+
+## Scope
+
+Met een digitaal toetssysteem bedoelen we software die het digitale toetsproces faciliteert. Bij dergelijke systemen wordt vaak onderscheid gemaakt tussen een aan- tal kerncomponenten: auteursomgeving, itembank, afspeelomgeving en analysetool. Deze componenten bespreken we hieronder uit aan de hand van de toetscyclus.
+
+[Begrippenkader - Hnadboek Itembanken](https://werkgroep-toetsen-op-afstand.github.io/Handboek-Itembanken/bijlagen.html#digitaal-toetssysteem)
+
+![](https://werkgroep-toetsen-op-afstand.github.io/Handboek-Itembanken/images/ToetsCyclus.svg){fig-align="right"}
+
+## Actoren
+
+::: {.fragment .columns}
+
+::: {.column}
+
+* Item ontwikkelaar
+* Student
+* Examinator
+* Planner
+* Bureau onderwijs logistiek
+* Studenten service balie
+* Toetscoordinator
+* Toetszaal support
+
+:::
+
+::: {.column}
+
+* Nakijker
+* Toetsdeskundigen
+* ...
+* ...
+
+:::
+
+:::
+
+## Taken
+
+::: {.fragment .columns}
+
+::: {.column}
+
+* Digitale toets aanvragen
+* Items maken
+* Items selecteren voor toets
+* Toets aanmaken
+* Items plaatsen
+* Toets plannen
+* Studenten aan toets koppelen
+
+:::
+
+::: {.column}
+
+* Toets afneme
+* Nakijken
+* Analyse
+* Correcties doorvoeren
+* Resultaten publiceren
+* Inzage
+* Correcties doorvoeren
+
+:::
+
+:::
+
+
+## Wie doet wat
+
+::: {.absolute top=200 left=45% style="border: 2px solid black; padding:5px; background-color: #e67300;"}
+Personen
+:::
+
+::: {.absolute top=500 left=25% style="border: 2px solid black; padding:5px; background-color: #e67300;"}
+Taken
+:::
+
+::: {.absolute top=500 left=65% style="border: 2px solid black; padding:5px; background-color: #e67300;"}
+Actoren
+:::
+
+# Processen
+
+## Pre exam workflow
+
+<small style="transform: scale(0.5); position: absolute; top: -100px; left: -400px;">
+
+```{mermaid}
+sequenceDiagram
+           Scheduler->>BOL: Reserve IWO
+           BOL->> Scheduler: Confirm
+           Scheduler->>SSD: Reservations
+           Scheduler->>ICTO: Reservations
+           ICTO->>FUNCT: Exam requirements
+           Scheduler->>AC: Reservations
+           AC->>ICTO: Create account and itembank
+           ICTO->>AC: Create itembank categories
+           ICTO->>Teacher: Account info and invite for training
+           AC->>Teacher: Start making items
+           Teacher->>AC: Items ready
+           AC->>SSD: Exam ready
+           AC->>ICTO: Exam ready
+           SSD->>Students: Exam planned
+           WPO->>ICTO: Come test
+```
+
+</small>
+
+## Mermaid syntax {.smaller}
+
+```{}
+sequenceDiagram
+           Scheduler->>BOL: Reserve IWO
+           BOL->> Scheduler: Confirm
+           Scheduler->>SSD: Reservations
+           Scheduler->>ICTO: Reservations
+           ICTO->>FUNCT: Exam requirements
+           Scheduler->>AC: Reservations
+           AC->>ICTO: Create account and itembank
+           ICTO->>AC: Create itembank categories
+           ICTO->>Teacher: Account info and invite for training
+           AC->>Teacher: Start making items
+           Teacher->>AC: Items ready
+           AC->>SSD: Exam ready
+           AC->>ICTO: Exam ready
+           SSD->>Students: Exam planned
+           WPO->>ICTO: Come test
+```
+
+[Online mermaid syntax editor](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj3s6rAwdj7AhXryAIHHcglCqEQFnoECA4QAQ&url=https%3A%2F%2Fmermaid.live%2F&usg=AOvVaw1iQiG3Q0HJ3WQlXgL4n0NJ)
+
+## Post exam workflow
+
+<small style="transform: scale(0.7); position: absolute; top: 100px; left: -200px;">
+
+```{mermaid}
+sequenceDiagram
+           ICTO->>Corrector: Start grading
+           ICTO->>SSD: MC raw results
+           SSD->>Students: Prelimenary results           
+           SSD->>AC: MC Analysis report
+           AC->>Teacher: Recommendation
+           Teacher->>AC: Confirm
+           AC->>SSD: Regrade
+           Corrector->>SSD: Ready
+           SSD->>SiS: Final results
+```
+
+</small>
+
+# Centraal vs decentraal
+
+## Functionaliteiten toetsapplicatie
+
+> Benut de functionaliteiten van de toetsapplicatie maximaal
+
+# Dank voor uw aandacht {data-background="#e67300"}
