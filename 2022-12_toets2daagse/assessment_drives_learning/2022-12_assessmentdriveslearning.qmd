@@ -7,7 +7,9 @@ linkcolor: '#e67300'
 logo: SIG-DT-logo_surf_transparant.png
 institute: "Universiteit van Amsterdam"
 title-slide-attributes:
-  data-background-image: pexels-mikhail-nilov-9159047.jpg
+  data-background-image: ../images/zaal.png
+  data-background-position: 0px 200px
+  data-background-opacity: .8
 ---
 
 # Why assessment drives learning {data-background="#e67300"}
