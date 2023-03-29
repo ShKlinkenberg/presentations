@@ -1,11 +1,11 @@
 ---
-title: "How assessment drives learning"
+title: "Why assessment drives learning"
 author: "Sharon Klinkenberg"
 date: "30 mar 2023"
 format: revealjs
-# linkcolor: '#BC0031'
 # logo: SIG-DT-logo_surf_transparant.png
 institute: "Universiteit van Amsterdam"
+linkcolor: '#BC0031'
 # title-slide-attributes:
 #   data-background-image: images/zaal.png
 #   data-background-position: 0px 200px
@@ -89,4 +89,4 @@ Create remediation sessions for "group" intervention.
 
 > This is how assessment drives learning
 
-# Dank voor uw aandacht {data-background="#e67300"}
+# Thank you! {data-background="#e67300"}
