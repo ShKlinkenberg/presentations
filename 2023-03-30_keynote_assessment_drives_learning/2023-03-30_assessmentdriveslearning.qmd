@@ -5,7 +5,6 @@ date: "30 mar 2023"
 format: revealjs
 # logo: SIG-DT-logo_surf_transparant.png
 institute: "Universiteit van Amsterdam"
-linkcolor: '#BC0031'
 # title-slide-attributes:
 #   data-background-image: images/zaal.png
 #   data-background-position: 0px 200px
