@@ -41,12 +41,12 @@ Peak by Anders Ericsson
 
 ## Practice {data-background="#751C68"}
 
-* Prepatory assignments
+* Preparatory assignments
 * Tutorials
 * Digital formative practice
     * 14 Formative assessments
     * No points are given
-    * Only deduction for not making the assignments
+    * Only deduction for not doing the assignments
     
 ## Assessment {data-background="#004E92"}
 
@@ -76,7 +76,7 @@ Create remediation sessions for "group" intervention.
 
 ![](images/remediation1819.jpg)
 
-## Compare non mandatrory
+## Compare non-mandatrory
 
 ![](images/remediation1718.jpg)
 
