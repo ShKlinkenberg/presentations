@@ -31,7 +31,7 @@ Peak by Anders Ericsson
 
 <iframe style="width:760px; height:415px;" src="https://www.youtube.com/embed/uoUHlZP094Q?start=140" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## In educaton {data-background=images/education_cycle_uva.png data-background-size=contain}
+## In education {data-background=images/education_cycle_uva.png data-background-size=contain}
 
 ## Instruction {data-background="#E98302"}
 
