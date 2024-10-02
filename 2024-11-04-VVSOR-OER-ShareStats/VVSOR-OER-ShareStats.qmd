@@ -85,7 +85,7 @@ The open-source R package ‘[exams](https://www.r-exams.org)’ provides a [one
 ## Setting up
 
 * [Format guidelines](https://www.sharestats.nl/development/ItemDevelopment.html)
-* [Quality control procedures]https://www.sharestats.nl/development/qualityProcedure.html)
+* [Quality control procedures](https://www.sharestats.nl/development/qualityProcedure.html)
 * [Taxonomy](https://www.sharestats.nl/taxonomy/taxonomy_tree.html)
 
 ## Errors
