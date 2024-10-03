@@ -136,7 +136,7 @@ After 2 years of careful development, we finally where ready to deploy. But we r
 * Taxonomy to search results
 * Taxonomy folder structure
 
-> Maybe expand to more than items. What about learning modules or presentations.
+> Maybe expand to more than items. What about learning modules or [lectures](https://github.com/ShKlinkenberg/statistics-lectures).
 
 # The end {data-background="#57CBCC"}
     
