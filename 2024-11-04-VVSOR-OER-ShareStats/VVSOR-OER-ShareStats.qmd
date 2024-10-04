@@ -13,8 +13,25 @@ format:
 
 # ShareStats.nl
 
+:::: {.columns}
+
+::: {.column width="40%"}
+
+![](qr_jun7u..png)
+
+👆 Link to presentation
+
+:::
+
+::: {.column width="60%"}
+
+
 1. Short history
 2. ShareStats
+
+:::
+
+::::
 
 # History {data-background="#57CBCC"}
 
