@@ -1,5 +1,5 @@
 ---
-title: "ShareStats.nl From Vision to Reality"
+title: "ShareStats.nl<br>From Vision to Reality"
 subtitle: "The Story Behind Open-Source Statistics Item Development"
 author: "Klinkenberg"
 institute: "Universiteit van Amsterdam"
@@ -81,6 +81,7 @@ The open-source R package ‘[exams](https://www.r-exams.org)’ provides a [one
     * VU: Blackboard > markdown
     * UU: Documents > markdown
     * EUR: ... > markdown
+    * [The team](https://www.sharestats.nl/team/team.html)
     
 ## Setting up
 
@@ -90,7 +91,7 @@ The open-source R package ‘[exams](https://www.r-exams.org)’ provides a [one
 
 ## Errors
 
-After 2 years of careful development, we finally where ready to deploy. But we ran into multiple errors.
+After 2 years of careful development, we were finally ready to deploy. But we ran into multiple errors.
 
 ::: {.fragment}
 
@@ -130,13 +131,14 @@ After 2 years of careful development, we finally where ready to deploy. But we r
 
 ## Wishlist
 
-* More usage
-* More marketing
+* More instructions
 * Procedure for adding new content
 * Taxonomy to search results
 * Taxonomy folder structure
+* More marketing
 
 > Maybe expand to more than items. What about learning modules or [lectures](https://github.com/ShKlinkenberg/statistics-lectures).
 
 # The end {data-background="#57CBCC"}
-    
+
+{{< include ../about.qmd >}}
