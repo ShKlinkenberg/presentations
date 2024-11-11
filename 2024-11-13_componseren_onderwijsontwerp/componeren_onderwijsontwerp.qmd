@@ -1,0 +1,47 @@
+---
+title: "Componeren onderwijsontwerp"
+subtitle: "Componeren van een geïntegreerd onderwijsontwerp voor de toekomst"
+author: "Klinkenberg"
+institute: "Universiteit van Amsterdam"
+format: 
+  revealjs:
+    preview-links: true
+    logo: Logo_OWD24.svg
+    title-slide-attributes:
+      data-background-image: Logo_OWD24.svg
+      data-background-size: "150%"
+      data-background-position: "20% 75%"
+---
+
+# {data-background-image="Logo_OWD24.svg" data-background-size="260%"}
+
+[Componeren]{style="font-size: 3em; background-blend-mode: overlay;"}
+
+## 1. Introductie (5 min)
+
+- **Doel van de Sessie:** Inspireren en handvatten bieden voor een toekomstbestendig onderwijsontwerp.
+- **Belang van Geïntegreerde Technologieën:** Het benutten van bestaande middelen voor een rijkere leerervaring.
+- **Doelgroep:** Onderwijsprofessionals, beleidsmakers, ICT-specialisten.
+
+## 2. Visie op het Droomscenario (5 min)
+
+- **Beschrijving van een Ideaal Onderwijsontwerp:** Technologieën werken naadloos samen in een geïntegreerde leeromgeving.
+- **Voorbeelden van Succesvolle Integraties:** Inspirerende best practices binnen hoger onderwijs.
+- **Impact op de Leerervaring:** Hoe een goed ontwerp bijdraagt aan effectieve en toekomstgerichte leeromgevingen.
+
+## 3. Praktische Handvatten en Best Practices (7 min)
+
+- **Hybride Onderwijsvormen:** Integratie van hybride hoorcolleges en digitale publicaties.
+- **Open Educational Resources (OER):** Effectieve inzet van open leermiddelen binnen het curriculum.
+- **Gebruik van Beschikbare Technologieën:** Maximale benutting van bestaande tools en middelen zonder noodzaak voor nieuwe investeringen.
+
+## 4. Interactieve Uitwisseling (5 min)
+
+- **Korte Groepsactiviteit:** Ideeën delen en brainstormen over innovatieve onderwijsontwerpen.
+- **Stimuleren van Creativiteit en Samenwerking:** Samen nieuwe perspectieven ontwikkelen voor een geïntegreerd ontwerp.
+
+## 5. Afsluiting en Vervolgstappen (3 min)
+
+- **Kernpunten Samenvatten:** Belangrijkste inzichten en praktische stappen voor een toekomstbestendig ontwerp.
+- **Oproep tot Actie:** Deelnemers aanmoedigen om hun eigen onderwijsontwerpen te verbeteren met geïntegreerde technologie.
+- **Netwerkmogelijkheid:** Uitnodigen voor verdere discussie na de sessie.

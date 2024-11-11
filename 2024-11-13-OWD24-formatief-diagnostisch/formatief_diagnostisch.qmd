@@ -1,0 +1,138 @@
+---
+title: "Formatieve Diagnostiek"
+subtitle: "Formatieve toetsing als diagnostisch instrument voor grote studentengroepen"
+author: "Sharon Klinkenberg"
+date: "12 nov 2024"
+bibliography: literature.bib
+format: revealjs
+# logo: SIG-DT-logo_surf_transparant.png
+institute: "Universiteit van Amsterdam"
+title-slide-attributes:
+  data-background-image: images/Logo_OWD24.svg
+  data-background-position: -400px -300px
+  data-background-size: "150%"
+#   data-background-opacity: .8
+---
+
+# {.center}
+
+::: {style="font-size: 300%;"}
+
+$2\sigma$
+
+:::
+
+[The 2 $2\sigma$ problem](https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem)
+
+@doi:10.3102/0013189X013006004
+
+![](images/bloom.png){.absolute top=50 right=50 width="400" height="800"}
+
+# Deliberate practice {.flexbox .vcenter}
+
+Peak by Anders @alma9939371595105132
+
+<iframe style="width:760px; height:415px;" src="https://www.youtube.com/embed/uoUHlZP094Q?start=140" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Theory of teaching
+
+Apparently there are many theories of learning, but not so much theories of teaching @Cai2023.
+
+> Farmers need to not only know how plants grow (theories of learning) but also
+how to farm (theories of teaching). <br><br>@gage1963handbook
+
+## {data-background=images/education_cycle_uva.png data-background-size=contain}
+
+# Instruction {data-background="#E98302"}
+
+* Lectures / Weblectures
+* Knowledge clips
+* Books
+* e-learning
+* Articles
+
+# Practice {data-background="#751C68"}
+
+* Preparatory assignments
+* Tutorials
+* Digital formative practice
+    
+# Assessment {data-background="#004E92"}
+
+* Weekly formative assessment
+* Tutorials
+* Exams
+
+# Diagnostics {.smaller data-background="#257835"}
+
+Requirements to work
+
+* Actionalble
+* Frictionless
+
+Types
+
+* Simple
+* Based on learning goals
+
+## Simple
+
+* Proportion correct
+* Time on task
+* Self reflections
+
+## Proportion correct
+
+![Proportion correct](images/proportion-correct.png)
+
+## Time on task
+
+![Time on task](images/time-on-task.png)
+
+## Time and correct
+
+![Time & Proportion correct](images/Speedgrader-1.png)
+
+## Self reflection
+
+![Self reflection](images/Speedgrader-2.png)
+
+## Learning goels
+
+![Diagnostics](images/digagnostics_remindo.png)
+
+# Remediation {data-background="#BEB414"}
+
+> In remedial teaching, educators provide individualized education approaches to aid students struggling with specific skills. They offer additional support and practice tailored to students’ needs, enabling them to achieve their educational goals and objectives.
+
+* Based on interim exam 1 and 2
+* Select 25% < 5
+* __Mandatory__
+
+## Mandatory remediation
+
+![](images/remediation1819.jpg)
+
+## Compare non-mandatrory
+
+![](images/remediation1718.jpg)
+
+## Course grade
+
+![](images/grades.png){style="transform:scale(.8);"}
+
+# {data-background=images/education_cycle_uva.png data-background-size=contain}
+
+## Suggestions
+
+* Start simple
+* Iterate each year
+* Investigates what works and what not
+* Easy of use
+* Readily available
+
+# Follow the TLC Podcast
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/0XnrZOs2heUfVf5GUWaqjZ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+# Thank you! {data-background="#e67300"}
