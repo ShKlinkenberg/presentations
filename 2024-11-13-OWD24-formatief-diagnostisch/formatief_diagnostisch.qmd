@@ -133,6 +133,23 @@ Types
 
 # Follow the TLC Podcast
 
+:::: {.columns}
+
+::: {.column width="60%"}
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/0XnrZOs2heUfVf5GUWaqjZ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+:::
+
+::: {.column width="40%"}
+
+![](images/TLC-Podcast-QR.png)
+
+:::
+
+::::
+
+
+
 
 # Thank you! {data-background="#e67300"}
