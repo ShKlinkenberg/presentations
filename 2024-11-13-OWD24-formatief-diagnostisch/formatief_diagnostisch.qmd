@@ -22,7 +22,7 @@ $2\sigma$
 
 :::
 
-[The 2 $2\sigma$ problem](https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem)
+[The $2\sigma$ problem](https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem)
 
 @doi:10.3102/0013189X013006004
 
