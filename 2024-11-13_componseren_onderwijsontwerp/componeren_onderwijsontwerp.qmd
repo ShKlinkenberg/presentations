@@ -6,7 +6,7 @@ institute: "Universiteit van Amsterdam"
 format: 
   revealjs:
     preview-links: true
-    logo: Logo_OWD24.svg
+    # logo: Logo_OWD24.svg
     title-slide-attributes:
       data-background-image: Logo_OWD24.svg
       data-background-size: "150%"
@@ -15,33 +15,54 @@ format:
 
 # {data-background-image="Logo_OWD24.svg" data-background-size="260%"}
 
-[Componeren]{style="font-size: 3em; background-blend-mode: overlay;"}
+[Componeren]{style="font-size: 3em; background-color: rgba(255,255,255,0.8); padding: 20px;"}
 
-## 1. Introductie (5 min)
+## Layers {.smaller data-background-image="layers.png" background-color="black"}
 
-- **Doel van de Sessie:** Inspireren en handvatten bieden voor een toekomstbestendig onderwijsontwerp.
-- **Belang van Geïntegreerde Technologieën:** Het benutten van bestaande middelen voor een rijkere leerervaring.
-- **Doelgroep:** Onderwijsprofessionals, beleidsmakers, ICT-specialisten.
+::: {style="background-color: rgba(241,179,35,0.8); padding: 20px;"}
 
-## 2. Visie op het Droomscenario (5 min)
+Instruments | Mo | Tue | We | Thu | Vr | Sa | Su | end
+------------|----|----|----|----|----|----|----|----
+Lectures    | 🎵 |    |    |    |    |    |    |
+Weblectures | 🎵 | 🎵 | 🎵 | 🎵 | 🎵 | 🎵 | 🎵 | 🎵
+Tutorials   | 🎵 |    | 🎵 |    |    |    |    |
+Video       |    | 🎵 |    |    |    |    |    |
+Book        |    | 🎵 |    | 🎵 |    | 🎵 | 🎵 |
+e-learnings |    | 🎵 |    |    |    |    |    |
+Assignments |    | 🎵 |    |    |    | 🎵 | 🎵 |
+Formative assessment |    | 🎵 | 🎵 | 🎵 | 🎵 |    |    |
+Summative assessment |    |    |    |    |    |    |    | 🎵
+Checks      | 🎵 |    | 🎵 |    |    |    |    |
+Rules       | 🎵 | 🎵 | 🎵 | 🎵 | 🎵 | 🎵 |    |
 
-- **Beschrijving van een Ideaal Onderwijsontwerp:** Technologieën werken naadloos samen in een geïntegreerde leeromgeving.
-- **Voorbeelden van Succesvolle Integraties:** Inspirerende best practices binnen hoger onderwijs.
-- **Impact op de Leerervaring:** Hoe een goed ontwerp bijdraagt aan effectieve en toekomstgerichte leeromgevingen.
+:::
 
-## 3. Praktische Handvatten en Best Practices (7 min)
+## Integrate layers {data-background-image="swirl.png" background-color="black"}
 
-- **Hybride Onderwijsvormen:** Integratie van hybride hoorcolleges en digitale publicaties.
-- **Open Educational Resources (OER):** Effectieve inzet van open leermiddelen binnen het curriculum.
-- **Gebruik van Beschikbare Technologieën:** Maximale benutting van bestaande tools en middelen zonder noodzaak voor nieuwe investeringen.
+# {data-background-image="Logo_OWD24.svg" data-background-size="340%"}
 
-## 4. Interactieve Uitwisseling (5 min)
+[Maximum utilization]{style="font-size: 3em; background-color: rgba(255,255,255,0.8); padding: 20px;"}
 
-- **Korte Groepsactiviteit:** Ideeën delen en brainstormen over innovatieve onderwijsontwerpen.
-- **Stimuleren van Creativiteit en Samenwerking:** Samen nieuwe perspectieven ontwikkelen voor een geïntegreerd ontwerp.
+## {data-background-image="manytech.png" background-color="white"}
 
-## 5. Afsluiting en Vervolgstappen (3 min)
+[Maximize use of available technologies]{style="font-size: 3em; background-color: rgba(255,255,255,0.8); padding: 20px;"}
 
-- **Kernpunten Samenvatten:** Belangrijkste inzichten en praktische stappen voor een toekomstbestendig ontwerp.
-- **Oproep tot Actie:** Deelnemers aanmoedigen om hun eigen onderwijsontwerpen te verbeteren met geïntegreerde technologie.
-- **Netwerkmogelijkheid:** Uitnodigen voor verdere discussie na de sessie.
+# Follow the TLC Podcast {data-background-color="#e98300"}
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/0XnrZOs2heUfVf5GUWaqjZ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+:::
+
+::: {.column width="40%"}
+
+![](TLC-Podcast-QR.png)
+
+:::
+
+::::
+
+

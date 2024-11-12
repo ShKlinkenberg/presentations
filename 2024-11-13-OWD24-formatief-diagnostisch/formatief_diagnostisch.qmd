@@ -97,7 +97,7 @@ Types
 
 ![Self reflection](images/Speedgrader-2.png)
 
-## Learning goels
+## Learning goals
 
 ![Diagnostics](images/digagnostics_remindo.png)
 
