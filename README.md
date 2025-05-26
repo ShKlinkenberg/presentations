@@ -1,6 +1,7 @@
 # presentations
 This repository hosts my public presentations
 
+* [Samenwerken aan Itembanken Npuls community event](https://shklinkenberg.github.io/presentations/2025-05-14_samenwerken_aan_itembanken_Npuls_community_event_toetsen/samenwerken_aan_itembanken.html)
 * [VVSOR ShareStats.nl presentation](https://shklinkenberg.github.io/presentations/2024-11-04-VVSOR-OER-ShareStats/VVSOR-OER-ShareStats.html#/title-slide)
 * [Blended Learning](http://shklinkenberg.github.io/presentations/12-06-2018_VU_blended_learning/Blended_learning_WSR.html)
 * [UvA guest lecture](http://shklinkenberg.github.io/presentations/17-01-2019_UvA_experimentation/statistical_basis_for_experimentation.html)

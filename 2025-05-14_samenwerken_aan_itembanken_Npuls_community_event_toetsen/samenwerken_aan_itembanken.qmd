@@ -1,0 +1,89 @@
+---
+title: "Samenwerken aan itembanken"
+subtitle: "Van Lokaal tot Internationaal"
+author:
+  - Sharon Klinkenberg
+  - Ilonka van Meenen
+format: 
+  revealjs:
+    logo: https://npuls.nl/wp-content/uploads/2023/05/npuls-logo-black.png
+    theme: [default, custom.scss]
+    transition: slide
+    background-transition: fade
+    preview-links: true
+title-slide-attributes:
+  data-background-image: https://npuls.nl/wp-content/uploads/2023/05/npuls-logo-black.png
+  data-background-size: 20%
+  data-background-position: 20px 20px
+  data-background-color: "#F4D9DC"
+---
+
+# Wat zijn itembanken
+
+Opensource online boek: [Handboek itembanken](https://werkgroep-toetsen-op-afstand.github.io/Handboek-Itembanken/).
+
+* Verzameling toetsvragen
+* Constructie
+
+# Samenwerken 
+
+## Wat werkt
+
+* Binnen toetsapplicatie
+* Constructie
+* Review
+* Tags
+
+## Wat werkt niet
+
+* Tussen verschillende toetsapplicaties
+    * [QTI Specification](https://www.1edtech.org/standards/qti/index#QTI3)
+    * Tags
+    * Psychometrische gegevens
+
+# Relevantie
+
+* Verhoogt kwaliteit 👀
+* Borging toetskwaliteit voor accreditatie
+* Hergebruik vragen eenvoudiger
+
+# Hoe te gebruiken
+
+Afhankelijk van:
+
+1. Binnen een vak
+2. Binnen de afdeling
+3. Binnen de instelling
+4. Tussen instellingen
+5. Internationaal
+
+## Vakniveau
+
+* Docent maakt een itembank voor eigen vak
+    * [TestVision](https://engine.surfconext.nl/authentication/idp/single-sign-on/key:20230503)
+
+## Afdelingsniveau
+
+* Docenten van de afdeling maken gezamenlijk toetsvragen voor vakken
+* Docenten van de afdeling worden ingezet als reviewer voor de toetsontwikkeling
+
+## Instellingsniveau
+
+* Domein specifieke toetsbanken zijn beschikbaar voor alle docenten
+    * [Grasple voor statistiek](https://www.grasple.com)
+    * Kan in elke toetsapplicatie ingericht worden
+
+## Nationaal
+
+* Consortia
+    * [10 voor de leraar](https://www.10voordeleraar.nl/kennistoetsen)
+    * [interuniversitaire VoortgangsToets Geneeskunde](https://ivtg.nl/nl/)
+* Examenleveranciers
+    * [prove2move](https://www.prove2move.nl/examens/)
+
+## Internationaal
+
+* Open publieke toetsbanken
+    * [ShareStats.nl](https://www.sharestats.nl)
+    
+# Dank {background-color="#F4D9DC"}
