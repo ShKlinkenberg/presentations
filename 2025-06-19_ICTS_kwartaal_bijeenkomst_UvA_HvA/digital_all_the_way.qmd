@@ -34,6 +34,8 @@ new BugController({'minBugs':1, 'maxBugs':1, 'mouseOver':'die'});
 
 {{< include ../about.qmd >}}
 
+* [Bugs](http://auz.github.io/Bug/) by [Graham McNicoll](https://github.com/Auz)
+
 
 
 
