@@ -1,0 +1,30 @@
+---
+title: "Digital Teaching<br>All The Way"
+subtitle: "ICTS kwartaalbijeenkomst UvA/HvA"
+author: "Sharon Klinkenberg"
+date: 2025-06-19
+footer: "University of Amsterdam"
+format: 
+  revealjs:
+    theme: [default, ../custom.scss]
+---
+
+#
+
+> Onderbenutten van ICT faciliteiten
+
+# 
+
+> Potentieel van studenten ontwikkelen
+
+# 
+
+> Wegnemen van drempels
+
+# {background-color="#bc0031"}
+
+{{< include ../about.qmd >}}
+
+
+
+
