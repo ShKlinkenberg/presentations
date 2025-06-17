@@ -9,13 +9,14 @@ format:
     theme: [default, ../custom.scss]
 ---
 
+<script type="text/javascript" src="Auz-Bug-8eac7b7/bug-min.js"></script>
+
+<script type="text/javascript">new BugController({'minBugs':1, 'maxBugs':1, 'mouseOver':'die'});</script>
+
 #
 
 > Onderbenutten van ICT faciliteiten
 
-<script type="text/javascript" src="Auz-Bug-8eac7b7/bug-min.js"></script>
-
-<script type="text/javascript">new BugController({'minBugs':10, 'maxBugs':50, 'mouseOver':'die'});</script>
 
 
 # 
@@ -29,6 +30,7 @@ format:
 # {background-color="#bc0031"}
 
 {{< include ../about.qmd >}}
+
 
 
 
