@@ -24,7 +24,7 @@ new BugController({'minBugs':1, 'maxBugs':1, 'mouseOver':'die'});
 
 # 
 
-> Potentieel van studenten ontwikkelen
+> Potentieel van studenten ontplooien
 
 # 
 
