@@ -17,6 +17,7 @@ format:
     transition: slide
     background-transition: fade
     preview-links: false
+    slide-number: true
 title-slide-attributes:
   data-background-image: https://TLC-UvA.github.io/presentation_template_and_assets_quarto_reveal/logos/FMG_Cirkel.png
   data-background-size: 10%
