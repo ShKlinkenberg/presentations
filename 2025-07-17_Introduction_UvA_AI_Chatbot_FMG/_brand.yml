@@ -1,0 +1,8 @@
+color:
+  background: white
+  foreground: "#2F4F4F"
+  primary: "#e98300"
+
+logo: 
+  medium: https://TLC-UvA.github.io/presentation_template_and_assets_quarto_reveal/logos/FMG_Cirkel.png
+  

@@ -1,0 +1,212 @@
+---
+title: "Introducing UvA AI chat for teachers"
+# subtitle:
+author: 
+  - Jessica Taylor Piotrowski
+  - Sharon Klinkenberg
+date: 2025-07-17
+format:
+  pdf:
+    toc: true
+    number-sections: false
+    colorlinks: true
+    brand: _brand.yml
+  revealjs:
+    logo: https://TLC-UvA.github.io/presentation_template_and_assets_quarto_reveal/logos/FMG_Cirkel.png
+    theme: [default, tlc-fmg.scss]
+    transition: slide
+    background-transition: fade
+    preview-links: false
+title-slide-attributes:
+  data-background-image: https://TLC-UvA.github.io/presentation_template_and_assets_quarto_reveal/logos/FMG_Cirkel.png
+  data-background-size: 10%
+  data-background-position: 20px 20px
+---
+
+# Introduction {data-background-color="#e98300"}
+
+::: {.notes}
+Speaker notes:
+1. Intro Jess and Sharon
+2. House rules
+  * Questions in chat collected
+  * Raise hand for conversation
+  * Q&A collected
+3. Foreshadowing of how we got here
+:::
+
+# UvA AI Chatbot {data-background-color="#e98300"}
+
+## Demo
+
+![](images/UvA-AI-Chatbot.png){.absolute top=100 left=500 width="60%" height="60%" style="transform: perspective(850px) rotateY(-50deg);"}
+
+[aichat.uva.nl](https://aichat.uva.nl)
+
+* Chatbot userinterfase
+* Multiple models
+* Hosted on our servers
+* GDPR compliant
+* Zero data retention
+
+::: {.notes}
+Speaker notes:
+
+* Support and feedback
+* Demo prompts
+* Deletion of chats
+* New Chat
+* L2R model, persona, documents, extensions, and download
+* L persona
+* Groups
+* Extensions
+* Prompt library
+* Projects
+* Settings
+:::
+
+## Large Language Models in a nutshell
+
+::: {.absolute top=200 left=300 width="70%" height="70%" style="transform: perspective(850px) rotateY(-20deg); filter: drop-shadow(0 0 0.75rem grey);"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LPZh9BOjkQs?si=GSe8QbnPEWobYw8J&amp;start=162" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<small>Simple explainer video by 3Blue1Brown.</small>
+:::
+
+
+::: {.notes}
+Speaker notes:
+
+GoTo 2:41
+Cover Static model
+Prompt filter preparation
+Data on not used
+:::
+
+## {background-iframe="https://poloclub.github.io/transformer-explainer/"}
+
+# Implementation strategy {data-background-color="#e98300"}
+
+## Strategy for implementation
+
+> You don't have to use it!
+
+* September-October: Just sit on the fence
+* October-January: If you want to use AI start preparing with our team
+    * [TLC-FMG AI consultancy](https://tlc.uva.nl/en/article/ai-consultancy/)
+* February: Use in education
+
+# Experimenting {data-background-color="#e98300"}
+
+## Practical usecases {.smaller}
+
+* Teacher’s Sparring Partner
+* Translation of Texts from EN to NL and vice versa
+* Lesson Plan Inspiration 
+* In the Classroom 
+  * Activating the Classroom Prompts & Question/Answer for Engagement [based on articles]
+  * Help students use it as a study tool and also as a writing tool
+
+> I used it to much, I could have learned more. (Anonymous Student)
+
+## Assessment {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+* Item Creation 
+* Answer Model Generation 
+* Elaborative Feedback (with Love)
+* Rubric Inspiration 
+:::
+
+::: {.column width="50%"}
+BUT - Elephant In The Room - Fraud
+
+* Check Your Essay Prompt
+* Add parameters that are hard for AI to do [use resources from class; cite 10 resources that are peer-reviewed journals]
+* Find Different Ways of Supervising (can you somehow see the process?)
+* Add Presentation
+* Talk with your students
+
+> Can you explain your paper
+:::
+
+::::
+
+
+
+# Critical considerations {data-background-color="#e98300"}
+
+## Regulations
+
+* When Can/Can’t Use the Tool
+* Examination Board Integration is Key – Tell Your Students Your Policy
+
+## Values
+
+* Restraints in the Bot can be surprising 
+* Ongoing community dialogue about our values in education and the needs of the labor market
+
+# Resources {data-background-color="#e98300"}
+
+## UvA AI Chat staff
+
+:::: {.columns}
+
+::: {.column width="50%"}
+General information page for all UvA Staff
+
+[uva.nl/ai-chat](https://www.uva.nl/ai-chat)
+
+:::
+
+::: {.column width="50%"}
+UvA AI policy document
+
+[Beleidskader en richtlijnen GenAI in het onderwijs](https://www.uva.nl/over-de-uva/beleid-en-regelingen/onderwijs/beleidskader-en-richtlijnen-genai-in-het-onderwijs.html)
+
+![](images/01-beleidskader_genai_nl_030625.png){width="40%" height="40%" style="-webkit-box-reflect: below 1px linear-gradient(to bottom, transparent, black);"}
+:::
+
+::::
+
+## TLC training and courses {.smaller}
+
+* e-learning: [Getting started with UvA AI Chat](https://rise.articulate.com/share/BcGj6iYziApYvuQvLeqtqq8HiPcCly0-#/)
+* Manual: [UvA AI Chat](https://www.uva.nl/binaries/content/assets/uva/nl/over-de-uva/over-de-uva/ai-in-het-onderwijs/user-guide-for-uva-ai-chat-v0.8-30-june-2025-english.pdf)
+* Website: [Teaching & GenAI](https://tlc.uva.nl/en/article-category/teaching-and-ai/?faculty=54&faculty=55)
+* Workshop: [GenAI in Assessment](https://tlc.uva.nl/en/article/ai-in-assessment/?faculty=55)
+* Workshop: [Introduction to AI for teacher](https://tlc.uva.nl/en/article/ai-basics/)
+* e-learning: [Impact of GenAI on higher education (for lecturers)](https://tlc.uva.nl/en/article-category/e-learnings-en/?faculty=55)
+* Track: [BKO+ Track – Responsible AI in Education](https://tlc.uva.nl/en/article/bko-track-responsible-ai-in-education/?faculty=50)
+
+e-learning for students: [Responsible use of GenAI in higher education (for students)](https://tlc.uva.nl/en/article-category/e-learnings-en/?faculty=55)
+
+# Support {data-background-color="#e98300"}
+
+## Consultation
+
+Book a consultation with our TLC-FMG AI team.
+
+> Google: [tlc-fmg AI consultation](https://tlc.uva.nl/en/article/ai-consultancy/)
+
+![](images/AI-team.png)
+
+## Technical support
+
+Contact your local ICTO team.
+
+* PSY: [icto-psy@uva.nl](mailto:<icto-psy@uva.nl)
+* CW: [icto-cw@uva.nl](mailto:icto-cw@uva.nl)
+* POW: [icto-pow-fmg@uva.nl](mailto:icto-pow-fmg@uva.nl)
+* SW: [icto-csw@uva.nl](mailto:icto-csw@uva.nl)
+
+
+# Q&A
+
+
+# TLC-FMG {data-background-color="#e98300"}
+
+Feel free to contact us at:
+
+[tlc-fmg@uva.nl](mailto:tlc-fmg@uva.nl)
