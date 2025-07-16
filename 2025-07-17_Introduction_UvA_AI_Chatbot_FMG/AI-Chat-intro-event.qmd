@@ -1,6 +1,6 @@
 ---
 title: "Introducing UvA AI chat for teachers"
-# subtitle:
+subtitle: "Directors, FMG-TLC"
 author: 
   - Jessica Taylor Piotrowski
   - Sharon Klinkenberg
@@ -18,6 +18,7 @@ format:
     background-transition: fade
     preview-links: false
     slide-number: true
+    link-external-newwindow: true
 title-slide-attributes:
   data-background-image: https://TLC-UvA.github.io/presentation_template_and_assets_quarto_reveal/logos/FMG_Cirkel.png
   data-background-size: 10%
@@ -40,15 +41,17 @@ Speaker notes:
 
 ## Demo
 
-![](images/UvA-AI-Chatbot.png){.absolute top=100 left=500 width="60%" height="60%" style="transform: perspective(850px) rotateY(-50deg);"}
+::: {.absolute top=50 left=500 width="60%" height="60%" style="transform: perspective(850px) rotateY(-50deg);"}
+[AIchat.uva.nl](https://aichat.uva.nl){.r-fit-text}
+![](images/UvA-AI-Chatbot.png)
+:::
 
-[aichat.uva.nl](https://aichat.uva.nl)
-
-* Chatbot userinterfase
+* Chatbot User Interfase
 * Multiple models
-* Hosted on our servers
-* GDPR compliant
+* Hosted on UvA servers
+* GDPR/AVG compliant
 * Zero data retention
+* Available to staff with UvAnetID
 
 ::: {.notes}
 Speaker notes:
@@ -66,24 +69,34 @@ Speaker notes:
 * Settings
 :::
 
-## Large Language Models in a nutshell
+## Large Language Models in a nutshell {.smaller}
 
-::: {.absolute top=200 left=300 width="70%" height="70%" style="transform: perspective(850px) rotateY(-20deg); filter: drop-shadow(0 0 0.75rem grey);"}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LPZh9BOjkQs?si=GSe8QbnPEWobYw8J&amp;start=162" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<small>Simple explainer video by 3Blue1Brown.</small>
+> LLM are pre trained models that predict the next word based on input.
+
+:::: {.columns}
+
+::: {.column width="50%" .fragment}
+
+* **Where Do They Learn From?**
+  * Books. Wikipedia, Websites, Online articles (Stuff people publicly wrote online — before a certain date.)
+* **What Does “Training” Mean?**
+  * The model reads billions of sentences to learn how people write and speak — spotting patterns, not unrstanding like a human.
+  
 :::
 
+::: {.column width="50%" .fragment}
 
-::: {.notes}
-Speaker notes:
+* **What Can They Do?**
+  * Answer questions; Write emails, stories, and summaries; Translate languages; Help with coding
+* **But Be Aware:**
+  * They might make things up; they don’t "know" facts — they guess based on patterns, they are not search engines, but can search the web.
 
-GoTo 2:41
-Cover Static model
-Prompt filter preparation
-Data on not used
 :::
 
-## {background-iframe="https://poloclub.github.io/transformer-explainer/"}
+::::
+::: aside
+[LLM visualisation](https://poloclub.github.io/transformer-explainer/)
+:::
 
 # Implementation strategy {data-background-color="#e98300"}
 
@@ -91,14 +104,14 @@ Data on not used
 
 > You don't have to use it!
 
-* September-October: Just sit on the fence
-* October-January: If you want to use AI start preparing with our team
+* September-October: Explore, don’t rely on it for education
+* October-January: If you want to use in Semester 2, start preparing with our team
     * [TLC-FMG AI consultancy](https://tlc.uva.nl/en/article/ai-consultancy/)
 * February: Use in education
 
 # Experimenting {data-background-color="#e98300"}
 
-## Practical usecases {.smaller}
+## Practical Use Cases {.smaller}
 
 * Teacher’s Sparring Partner
 * Translation of Texts from EN to NL and vice versa
@@ -107,7 +120,7 @@ Data on not used
   * Activating the Classroom Prompts & Question/Answer for Engagement [based on articles]
   * Help students use it as a study tool and also as a writing tool
 
-> I used it to much, I could have learned more. (Anonymous Student)
+> I used it too much, I could have learned more. (Anonymous Student)
 
 ## Assessment {.smaller}
 
@@ -140,13 +153,17 @@ BUT - Elephant In The Room - Fraud
 
 ## Regulations
 
-* When Can/Can’t Use the Tool
-* Examination Board Integration is Key – Tell Your Students Your Policy
+* When can/can’t you use the tool
+* Keep a close line with your teaching directors
+* Examination board integration is key
+
+> Inform Students about your policy
 
 ## Values
 
 * Restraints in the Bot can be surprising 
 * Ongoing community dialogue about our values in education and the needs of the labor market
+* Sustainability considerations are key
 
 # Resources {data-background-color="#e98300"}
 

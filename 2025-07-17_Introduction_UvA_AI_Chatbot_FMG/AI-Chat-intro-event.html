@@ -130,6 +130,7 @@
 
 <section id="title-slide" data-background-image="https://TLC-UvA.github.io/presentation_template_and_assets_quarto_reveal/logos/FMG_Cirkel.png" data-background-position="20px 20px" data-background-size="10%" class="quarto-title-block center">
   <h1 class="title">Introducing UvA AI chat for teachers</h1>
+  <p class="subtitle">Directors, FMG-TLC</p>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
@@ -170,14 +171,16 @@ Sharon Klinkenberg
 </section>
 <section id="demo" class="slide level2">
 <h2>Demo</h2>
-<p><img data-src="images/UvA-AI-Chatbot.png" class="absolute" style="transform: perspective(850px) rotateY(-50deg);top: 100px; left: 500px; width: 60%; height: 60%; "></p>
-<p><a href="https://aichat.uva.nl">aichat.uva.nl</a></p>
+<div class="absolute" style="transform: perspective(850px) rotateY(-50deg);top: 50px; left: 500px; width: 60%; height: 60%; ">
+<p><a href="https://aichat.uva.nl" class="r-fit-text">AIchat.uva.nl</a> <img data-src="images/UvA-AI-Chatbot.png"></p>
+</div>
 <ul>
-<li>Chatbot userinterfase</li>
+<li>Chatbot User Interfase</li>
 <li>Multiple models</li>
-<li>Hosted on our servers</li>
-<li>GDPR compliant</li>
+<li>Hosted on UvA servers</li>
+<li>GDPR/AVG compliant</li>
 <li>Zero data retention</li>
+<li>Available to staff with UvAnetID</li>
 </ul>
 <aside class="notes">
 <p>Speaker notes:</p>
@@ -206,31 +209,39 @@ Sharon Klinkenberg
           display:block!important;
       }</style></aside>
 </section>
-<section id="large-language-models-in-a-nutshell" class="slide level2">
+<section id="large-language-models-in-a-nutshell" class="slide level2 smaller">
 <h2>Large Language Models in a nutshell</h2>
-<div class="absolute" style="transform: perspective(850px) rotateY(-20deg); filter: drop-shadow(0 0 0.75rem grey);top: 200px; left: 300px; width: 70%; height: 70%; ">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LPZh9BOjkQs?si=GSe8QbnPEWobYw8J&amp;start=162" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
-</iframe>
-<p><small>Simple explainer video by 3Blue1Brown.</small></p>
-</div>
-<aside class="notes">
-<p>Speaker notes:</p>
-<p>GoTo 2:41 Cover Static model Prompt filter preparation Data on not used</p>
-<style type="text/css">
-        span.MJX_Assistive_MathML {
-          position:absolute!important;
-          clip: rect(1px, 1px, 1px, 1px);
-          padding: 1px 0 0 0!important;
-          border: 0!important;
-          height: 1px!important;
-          width: 1px!important;
-          overflow: hidden!important;
-          display:block!important;
-      }</style></aside>
-</section>
-<section id="section" class="slide level2" data-background-iframe="https://poloclub.github.io/transformer-explainer/">
-<h2></h2>
-</section></section>
+<blockquote>
+<p>LLM are pre trained models that predict the next word based on input.</p>
+</blockquote>
+<div class="columns">
+<div class="column fragment" style="width:50%;">
+<ul>
+<li><strong>Where Do They Learn From?</strong>
+<ul>
+<li>Books. Wikipedia, Websites, Online articles (Stuff people publicly wrote online — before a certain date.)</li>
+</ul></li>
+<li><strong>What Does “Training” Mean?</strong>
+<ul>
+<li>The model reads billions of sentences to learn how people write and speak — spotting patterns, not unrstanding like a human.</li>
+</ul></li>
+</ul>
+</div><div class="column fragment" style="width:50%;">
+<ul>
+<li><strong>What Can They Do?</strong>
+<ul>
+<li>Answer questions; Write emails, stories, and summaries; Translate languages; Help with coding</li>
+</ul></li>
+<li><strong>But Be Aware:</strong>
+<ul>
+<li>They might make things up; they don’t “know” facts — they guess based on patterns, they are not search engines, but can search the web.</li>
+</ul></li>
+</ul>
+</div></div>
+
+<aside><div>
+<p><a href="https://poloclub.github.io/transformer-explainer/">LLM visualisation</a></p>
+</div></aside></section></section>
 <section>
 <section id="implementation-strategy" class="title-slide slide level1 center" data-background-color="#e98300">
 <h1>Implementation strategy</h1>
@@ -242,8 +253,8 @@ Sharon Klinkenberg
 <p>You don’t have to use it!</p>
 </blockquote>
 <ul>
-<li>September-October: Just sit on the fence</li>
-<li>October-January: If you want to use AI start preparing with our team
+<li>September-October: Explore, don’t rely on it for education</li>
+<li>October-January: If you want to use in Semester 2, start preparing with our team
 <ul>
 <li><a href="https://tlc.uva.nl/en/article/ai-consultancy/">TLC-FMG AI consultancy</a></li>
 </ul></li>
@@ -255,8 +266,8 @@ Sharon Klinkenberg
 <h1>Experimenting</h1>
 
 </section>
-<section id="practical-usecases" class="slide level2 smaller">
-<h2>Practical usecases</h2>
+<section id="practical-use-cases" class="slide level2 smaller">
+<h2>Practical Use Cases</h2>
 <ul>
 <li>Teacher’s Sparring Partner</li>
 <li>Translation of Texts from EN to NL and vice versa</li>
@@ -268,7 +279,7 @@ Sharon Klinkenberg
 </ul></li>
 </ul>
 <blockquote>
-<p>I used it to much, I could have learned more. (Anonymous Student)</p>
+<p>I used it too much, I could have learned more. (Anonymous Student)</p>
 </blockquote>
 </section>
 <section id="assessment" class="slide level2 smaller">
@@ -303,15 +314,20 @@ Sharon Klinkenberg
 <section id="regulations" class="slide level2">
 <h2>Regulations</h2>
 <ul>
-<li>When Can/Can’t Use the Tool</li>
-<li>Examination Board Integration is Key – Tell Your Students Your Policy</li>
+<li>When can/can’t you use the tool</li>
+<li>Keep a close line with your teaching directors</li>
+<li>Examination board integration is key</li>
 </ul>
+<blockquote>
+<p>Inform Students about your policy</p>
+</blockquote>
 </section>
 <section id="values" class="slide level2">
 <h2>Values</h2>
 <ul>
 <li>Restraints in the Bot can be surprising</li>
 <li>Ongoing community dialogue about our values in education and the needs of the labor market</li>
+<li>Sustainability considerations are key</li>
 </ul>
 </section></section>
 <section>
@@ -677,6 +693,11 @@ Sharon Klinkenberg
               if (link.dataset.originalHref !== undefined) {
                 link.href = link.dataset.originalHref;
               }
+                // target, if specified
+                link.setAttribute("target", "_blank");
+                if (link.getAttribute("rel") === null) {
+                  link.setAttribute("rel", "noopener");
+                }
             }
           }
         function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
