@@ -1,6 +1,6 @@
 ---
 title: "Introducing UvA AI chat for teachers"
-subtitle: "Directors, FMG-TLC"
+subtitle: "Directors TLC-FMG"
 author: 
   - Jessica Taylor Piotrowski
   - Sharon Klinkenberg
@@ -80,7 +80,7 @@ Speaker notes:
 * **Where Do They Learn From?**
   * Books. Wikipedia, Websites, Online articles (Stuff people publicly wrote online — before a certain date.)
 * **What Does “Training” Mean?**
-  * The model reads billions of sentences to learn how people write and speak — spotting patterns, not unrstanding like a human.
+  * The model reads billions of sentences to learn how people write and speak — spotting patterns, not understanding like a human.
   
 :::
 
@@ -108,6 +108,10 @@ Speaker notes:
 * October-January: If you want to use in Semester 2, start preparing with our team
     * [TLC-FMG AI consultancy](https://tlc.uva.nl/en/article/ai-consultancy/)
 * February: Use in education
+
+## Availability for Students
+
+> UvA AI Chat will also be available to students starting September 1. The focus and essence is on exploring and experimenting with these new possibilities. Lecturers remain in control of how education is designed and whether UvA AI Chat will be used or not.
 
 # Experimenting {data-background-color="#e98300"}
 
@@ -163,7 +167,7 @@ BUT - Elephant In The Room - Fraud
 
 * Restraints in the Bot can be surprising 
 * Ongoing community dialogue about our values in education and the needs of the labor market
-* Sustainability considerations are key
+* Sustainability considerations
 
 # Resources {data-background-color="#e98300"}
 
