@@ -28,8 +28,12 @@ title-slide-attributes:
 # Introduction {data-background-color="#e98300"}
 
 ::: {.notes}
+Jessica
+5 minutes stop at 16:05
+
 Speaker notes:
-1. Intro Jess and Sharon
+
+1. Intro Jessica and Sharon
 2. House rules
   * Questions in chat collected
   * Raise hand for conversation
@@ -38,6 +42,10 @@ Speaker notes:
 :::
 
 # UvA AI Chatbot {data-background-color="#e98300"}
+
+::: {.notes}
+Jessica transition into demo
+:::
 
 ## Demo
 
@@ -54,6 +62,9 @@ Speaker notes:
 * Available to staff with UvAnetID
 
 ::: {.notes}
+Sharon
+8 minutes stop at 16:13
+
 Speaker notes:
 
 * Support and feedback
@@ -98,9 +109,19 @@ Speaker notes:
 [LLM visualisation](https://poloclub.github.io/transformer-explainer/)
 :::
 
+::: {.notes}
+Sharon
+2 minutes stop at 16:15
+:::
+
 # Implementation strategy {data-background-color="#e98300"}
 
-## Strategy for implementation
+::: {.notes}
+Jessica
+quick transition
+:::
+
+## Strategy for teachers
 
 > You don't have to use it!
 
@@ -109,13 +130,31 @@ Speaker notes:
     * [TLC-FMG AI consultancy](https://tlc.uva.nl/en/article/ai-consultancy/)
 * February: Use in education
 
+::: {.notes}
+Sharon
+5 minutes stop at 16:20
+:::
+
 ## Availability for Students
 
 > UvA AI Chat will also be available to students starting September 1. The focus and essence is on exploring and experimenting with these new possibilities. Lecturers remain in control of how education is designed and whether UvA AI Chat will be used or not.
 
+::: {.notes}
+Jessica
+:::
+
 # Experimenting {data-background-color="#e98300"}
 
+::: {.notes}
+Jessica and Sharon
+10 minutes stop at 16:30
+:::
+
 ## Practical Use Cases {.smaller}
+
+::: {.notes}
+Jessica and Sharon
+:::
 
 * Teacher’s Sparring Partner
 * Translation of Texts from EN to NL and vice versa
@@ -127,6 +166,11 @@ Speaker notes:
 > I used it too much, I could have learned more. (Anonymous Student)
 
 ## Assessment {.smaller}
+
+::: {.notes}
+Jessica and Sharon
+5 minutes stop at 16:35
+:::
 
 :::: {.columns}
 
@@ -151,9 +195,12 @@ BUT - Elephant In The Room - Fraud
 
 ::::
 
-
-
 # Critical considerations {data-background-color="#e98300"}
+
+::: {.notes}
+Jessica
+5 minutes stop at 16:40
+:::
 
 ## Regulations
 
@@ -161,7 +208,11 @@ BUT - Elephant In The Room - Fraud
 * Keep a close line with your teaching directors
 * Examination board integration is key
 
-> Inform Students about your policy
+> Inform students about your policy in advance
+
+::: {.notes}
+Jessica
+:::
 
 ## Values
 
@@ -169,9 +220,22 @@ BUT - Elephant In The Room - Fraud
 * Ongoing community dialogue about our values in education and the needs of the labor market
 * Sustainability considerations
 
+::: {.notes}
+Jessica
+:::
+
 # Resources {data-background-color="#e98300"}
 
+::: {.notes}
+Sharon
+5 minutes stop at 16:45
+:::
+
 ## UvA AI Chat staff
+
+::: {.notes}
+Sharon
+:::
 
 :::: {.columns}
 
@@ -194,6 +258,10 @@ UvA AI policy document
 
 ## TLC training and courses {.smaller}
 
+::: {.notes}
+Sharon
+:::
+
 * e-learning: [Getting started with UvA AI Chat](https://rise.articulate.com/share/BcGj6iYziApYvuQvLeqtqq8HiPcCly0-#/)
 * Manual: [UvA AI Chat](https://www.uva.nl/binaries/content/assets/uva/nl/over-de-uva/over-de-uva/ai-in-het-onderwijs/user-guide-for-uva-ai-chat-v0.8-30-june-2025-english.pdf)
 * Website: [Teaching & GenAI](https://tlc.uva.nl/en/article-category/teaching-and-ai/?faculty=54&faculty=55)
@@ -206,7 +274,15 @@ e-learning for students: [Responsible use of GenAI in higher education (for stud
 
 # Support {data-background-color="#e98300"}
 
+::: {.notes}
+Sharon
+:::
+
 ## Consultation
+
+::: {.notes}
+Sharon
+:::
 
 Book a consultation with our TLC-FMG AI team.
 
@@ -215,6 +291,10 @@ Book a consultation with our TLC-FMG AI team.
 ![](images/AI-team.png)
 
 ## Technical support
+
+::: {.notes}
+Sharon
+:::
 
 Contact your local ICTO team.
 
@@ -226,9 +306,25 @@ Contact your local ICTO team.
 
 # Q&A
 
+::: {.notes}
+Jessica
+10 minutes stop at 16:55
+:::
+
+::: {.absolute top=50 left=600 width="60%" height="60%" style="transform: perspective(650px) rotateY(-10deg);"}
+![](images/qr_44exy.png)
+
+Get the slides 👆
+:::
 
 # TLC-FMG {data-background-color="#e98300"}
+
+::: {.notes}
+Jessica
+5 minutes stop at 17:00
+:::
 
 Feel free to contact us at:
 
 [tlc-fmg@uva.nl](mailto:tlc-fmg@uva.nl)
+
