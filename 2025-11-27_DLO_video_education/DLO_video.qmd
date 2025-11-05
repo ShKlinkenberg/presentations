@@ -1,0 +1,130 @@
+---
+title: "Video in het onderwijs: wat werkt (en wat niet)"
+author: "Sharon Klinkenberg"
+date: "27 nov 2025"
+format:
+  pdf:
+    toc: true
+    number-sections: false
+    colorlinks: true
+    brand: _brand.yml
+  revealjs:
+    theme: [default]
+    transition: slide
+    background-transition: fade
+    preview-links: false
+    slide-number: true
+    link-external-newwindow: true
+    navigation-mode: vertical
+---
+
+## Inleiding
+
+::: notes
+Doel: inspireren, maar ook realistisch zijn over wat werkt en wat niet. Publiek: ICT’ers, onderwijsmakelaars en beleidsmakers.
+:::
+
+- Video speelt een steeds grotere rol in het onderwijs  
+- Maar: niet elke vorm werkt even goed  
+- Laten we kijken naar wat **wel** werkt, wat **niet**, en waar we over 3 jaar willen staan  
+
+---
+
+## Mijn ervaring
+
+::: notes
+Persoonlijk perspectief vanuit mijn rol als onderwijsmakelaar. Niet theoretisch, maar gebaseerd op praktijkervaring.
+:::
+
+- Jarenlang gewerkt met webcolleges, kennisclips en hybride vormen  
+- Veel geëxperimenteerd met verschillende ontwerpen  
+- Belangrijkste inzicht:  
+  👉 Succes hangt af van **onderwijsontwerp** én van **doelgroep**
+
+---
+
+## Wat werkt wel?
+
+- Webcolleges met een **duidelijke structuur**  
+- Heldere koppeling tussen **video en opdrachten**  
+- Korte, doelgerichte kennisclips  
+- Studenten weten *wanneer* en *waarvoor* ze de video moeten gebruiken  
+
+---
+
+## Wat werkt niet?
+
+- Losstaande video’s zonder link met leerdoelen  
+- Lange webcolleges zonder interactie of context  
+- Kennisclips die niet ingebed zijn in de cursus  
+- “Video omdat het kan” — zonder didactische functie  
+
+---
+
+## Studentbehoeften: wat ze zeggen vs. wat ze doen
+
+::: notes
+Focus op gedrag, niet alleen op wat studenten zeggen in enquêtes of gesprekken.
+:::
+
+- Studenten zeggen vaak dat ze video prettig vinden  
+- Maar: kijken ze ook écht?  
+- Kijkcijfers en gebruiksdata vertellen het echte verhaal  
+- Integratie met opdrachten = hogere betrokkenheid  
+
+---
+
+## Voorbeeld uit de praktijk
+
+::: notes
+Hier kun je een concreet voorbeeld geven van een cursus waarin dit goed of juist minder goed werkte.
+:::
+
+- Webcolleges met bijbehorende quizopdrachten → hoge kijkcijfers  
+- Losstaande kennisclips zonder vervolg → nauwelijks bekeken  
+
+---
+
+## Toekomstbeeld (3 jaar verder)
+
+- Video is een **integraal onderdeel** van het onderwijs  
+- Kwalitatief goede webcolleges worden **hergebruikt** als kennisclips  
+- **Live streams** voor colleges als realistische hybride optie  
+- **Kennisdeling tussen early adopters** wordt de norm  
+
+---
+
+## Hybride onderwijs: kansen en uitdagingen
+
+- Hybride blijft lastig voor docenten  
+- Techniek, aandacht voor beide groepen, didactiek – alles moet kloppen  
+- Live stream is vaak een beter alternatief dan volledig hybride  
+- Belangrijk: **ondersteuning en training** blijven cruciaal  
+
+---
+
+## Samen leren en delen
+
+::: notes
+Afsluiting met een uitnodigende toon.
+:::
+
+- We hoeven het niet alleen te doen  
+- Door kennis te delen kunnen we sneller leren  
+- Early adopters spelen een sleutelrol  
+- Samen kunnen we video écht waardevol maken  
+
+---
+
+## Slot
+
+::: notes
+Persoonlijke afsluiting.
+:::
+
+> Video werkt niet door het simpelweg in te zetten.  
+> Het werkt wanneer het **onderdeel is van goed ontworpen onderwijs**.
+
+Dank je wel! 👋  
+Laten we het gesprek voortzetten:  
+**Wat werkt volgens jullie – en wat niet?**
