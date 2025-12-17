@@ -1,6 +1,9 @@
 # presentations
 This repository hosts my public presentations
 
+* [ML26 Keynote](https://shklinkenberg.github.io/presentations/2026-06-17_18_ML26/ML26_keynote_klinkenberg.html)
+* [DLO vidoe in education](https://shklinkenberg.github.io/presentations/2025-11-27_DLO_video_education/DLO_video.html)
+* [Introduction to UvA AI Chatbot](https://shklinkenberg.github.io/presentations/2025-07-17_Introduction_UvA_AI_Chatbot_FMG/AI-Chat-intro-event.html)
 * [Digital Teaching All The Way](https://shklinkenberg.github.io/presentations/2025-06-19_ICTS_kwartaal_bijeenkomst_UvA_HvA/digital_all_the_way.html)
 * [Samenwerken aan Itembanken Npuls community event](https://shklinkenberg.github.io/presentations/2025-05-14_samenwerken_aan_itembanken_Npuls_community_event_toetsen/samenwerken_aan_itembanken.html)
 * [VVSOR ShareStats.nl presentation](https://shklinkenberg.github.io/presentations/2024-11-04-VVSOR-OER-ShareStats/VVSOR-OER-ShareStats.html#/title-slide)

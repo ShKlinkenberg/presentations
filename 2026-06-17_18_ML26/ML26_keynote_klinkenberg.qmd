@@ -1,31 +1,38 @@
 ---
 title: "Co-Creating the Future of Learning" 
-author: "Klinkenberg"
+author: "Dr. Klinkenberg"
 date: "17 jun 2026"
 format:
-#  pdf:
-#    toc: true
-#    number-sections: false
-#    colorlinks: true
-#    brand: _brand.yml
-  revealjs:
-    theme: [default]
-    transition: slide
-    background-transition: fade
-    preview-links: false
-    slide-number: true
-    link-external-newwindow: true
+ pdf:
+   toc: true
+   number-sections: false
+   colorlinks: true
+   brand: _brand.yml
+ revealjs:
+   theme: [default]
+   transition: slide
+   background-transition: fade
+   preview-links: false
+   slide-number: true
+   link-external-newwindow: true
 ---
 
-# Introduction
+# Introduction {data-background="#bc0031"}
 
 ::: notes
 Goal: inspire, but also be realistic about what works and what doesn't. Audience: ICT professionals
+
+* Researcher
+* Teacher
+* Educational technologist
+* Director TLC
 :::
 
 ## Overview {.smaller}
 
-:::: {.columns .smaller}
+::: {style="transform: scale(0.8);"}
+
+:::: {.columns}
 
 ::: {.column width="50%"}
 
@@ -63,10 +70,67 @@ Goal: inspire, but also be realistic about what works and what doesn't. Audience
 
 ::::
 
+:::
+
 # Personalized Learning and Media Diversity
 
+## What is personalized learning?
+
+* Do we need to tailor education?
+* Multimodal learning materials
+  * Text, video, audio 
+  * Interactive widgets
+  * Assessment tools
+* Analyzing what works
+* Learning anywhere, anytime
+
+::: {.absolute top=50 left=500 width="60%" height="60%" style="transform: perspective(850px) rotateY(-50deg);"}
+![](images/Ebook.png)
+[OER ebook](https://shklinkenberg.github.io/Statistical-Inference/){}
+:::
+
 # Emerging Technologies and AI in Education
+
+## Didactics vs self-regulated learning
+
+* Balancing [guidance](https://aichat.uva.nl) and [autonomy](https://notebooklm.google.com/notebook/d2dd569f-95eb-4487-ab18-2a71c83b3d25)
+* Educational design vs learner control
+* Actionable learning goals
+* Self-regulated learning skills
+
+::: {.absolute top=50 left=500 width="60%" height="60%" style="transform: perspective(850px) rotateY(-50deg);"}
+![](images/notebookML.png)
+NotebookML
+:::
 
 # Assessment and Cognitive Design
 
-# Emerging Technologies and AI in Education
+## Assessment drives learning
+
+* Assessmeent as e-learning
+* Connection to learning goals
+* Formative and summative
+  * Authentic assessment
+
+::: {.absolute top=50 left=500 width="60%" height="60%" style="transform: perspective(850px) rotateY(-50deg);"}
+![](images/canvas.png)
+[canvas quiz](https://canvas.uva.nl/courses/54004/quizzes/119541/take?preview=1)
+:::
+
+
+
+# Sustainability and Responsibility in Media
+
+## Doing it right
+
+* The Lego approach
+* Open educational resources
+* The sum is greater than the parts
+* Collaboration over competition
+
+::: {.absolute top=50 left=500 width="60%" height="60%" style="transform: perspective(850px) rotateY(-50deg);"}
+![](images/sharestatsGitHub.png)
+[ShareStats](https://github.com/ShareStats)
+:::
+
+{{< include ../about.qmd >}}
