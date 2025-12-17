@@ -1,0 +1,15 @@
+---
+title: "Why assessment drives learning"
+author: "Sharon Klinkenberg"
+date: "7 dec 2022"
+format: revealjs
+linkcolor: '#e67300'
+logo: SIG-DT-logo_surf_transparant.png
+institute: "Universiteit van Amsterdam"
+title-slide-attributes:
+  data-background-image: pexels-mikhail-nilov-9159047.jpg
+---
+
+# Why assessment drives learning {data-background="#e67300"}
+
+In deze sessie zal Sharon Klinkenberg in gaan op het belang van toetsing als diagnostisch instrument. Waar feedback een cruciale rol speelt in het leerproces, is toetsing de bron waarop feedback gebaseerd zou moeten zijn. Aan het eind van de sessie heb je een helder inzicht hoe toetsing te integreren in het leerproces en hoe de resultaten gebruikt kunnen worden om het leerproces te sturen. Daarnaast schetst Sharon een droomvisie op een optimale integratie van toetsen en leren.

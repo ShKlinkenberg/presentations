@@ -18,7 +18,11 @@ In het digitale toetsproces zijn veel keuzes te maken, afhankelijk van de instel
 
 Met een digitaal toetssysteem bedoelen we software die het digitale toetsproces faciliteert. Bij dergelijke systemen wordt vaak onderscheid gemaakt tussen een aan- tal kerncomponenten: auteursomgeving, itembank, afspeelomgeving en analysetool. Deze componenten bespreken we hieronder uit aan de hand van de toetscyclus.
 
+<<<<<<< HEAD
 [Begrippenkader - Handboek Itembanken](https://werkgroep-toetsen-op-afstand.github.io/Handboek-Itembanken/bijlagen.html#digitaal-toetssysteem)
+=======
+[Begrippenkader - Hnadboek Itembanken](https://werkgroep-toetsen-op-afstand.github.io/Handboek-Itembanken/bijlagen.html#digitaal-toetssysteem)
+>>>>>>> 1ce8590 (Toets2daagse started on presentations)
 
 ![](https://werkgroep-toetsen-op-afstand.github.io/Handboek-Itembanken/images/ToetsCyclus.svg){fig-align="right"}
 
@@ -168,11 +172,14 @@ sequenceDiagram
 
 ## Functionaliteiten toetsapplicatie
 
+<<<<<<< HEAD
 * Rollen
 * Rechten
 * Stapelen van rollen en rechten
 * Hulp structuren
 
+=======
+>>>>>>> 1ce8590 (Toets2daagse started on presentations)
 > Benut de functionaliteiten van de toetsapplicatie maximaal
 
 # Dank voor uw aandacht {data-background="#e67300"}
