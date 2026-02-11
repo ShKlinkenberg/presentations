@@ -1,0 +1,171 @@
+---
+title: "Using Generative AI to Support Teaching"
+subtitle: "VU AI Show and Share - February 11, 2026"
+author: "Sharon Klinkenberg (UvA)"
+format:
+  revealjs:
+    theme: simple
+    transition: slide
+    slide-number: true
+    chalkboard: true
+---
+
+## Session Overview
+
+Using generative AI and MS Teams to:
+
+1. Develop and implement teaching methods
+2. Coach students in their writing process
+3. Support research workflows
+
+::: {.notes}
+Lecturer in methods and techniques and head of TLC FMG at UvA
+:::
+
+# Topic 1: Developing Teaching Methods {background-color="#4A90E2"}
+
+## Using Multiple AI Tools Simultaneously
+
+- Combining different AI assistants for different tasks
+- GitHub integration for version control
+- Iterative development workflow
+- Collaborative approach with AI
+
+## Creating Slides
+
+**AI-assisted slide development:**
+
+- Generate initial content from learning objectives
+- Refine structure and flow
+- Create examples and visualizations
+- Polish language and formatting
+
+## Writing an OER Book
+
+**Open Educational Resources development:**
+
+- Chapter-by-chapter content generation
+- Consistency checking across chapters
+- Creating exercises and activities
+- Maintaining accessible language
+
+## Deploying on GitHub
+
+**Version control and collaboration:**
+
+- Track changes in educational materials
+- Enable community contributions
+- Automated publishing workflows
+- Transparent development process
+
+## Creating Exam Questions
+
+**Assessment design with AI:**
+
+- Generate questions aligned with objectives
+- Create multiple choice distractors
+- Vary difficulty levels
+- Build comprehensive answer keys
+
+# Topic 2: Thesis Supervision with MS Teams {background-color="#50C878"}
+
+## Innovative Student Support
+
+**Using Microsoft Teams for writing coaching**
+
+Focus on **process, not just products**
+
+## Process-Oriented Supervision
+
+Traditional approach:
+- Submit full drafts → receive feedback → revise
+
+**New approach:**
+- Continuous dialogue
+- Incremental progress
+- Frequent touchpoints
+- Building confidence
+
+## Benefits of Teams
+
+- Lower threshold for questions
+- Real-time feedback opportunities
+- Document version tracking
+- Integrated communication
+
+## Supporting the Writing Process
+
+- Early-stage brainstorming
+- Outline development
+- Paragraph-level feedback
+- Reflection on progress
+
+# Topic 3: Research with Databot {background-color="#FFB347"}
+
+## Using AI for Research
+
+**Exploring databot in Positron for:**
+
+- Running statistical analyses
+- Creating research reports
+- Streamlining workflows
+
+## Running Analysis with Databot
+
+- Natural language to code translation
+- Statistical test selection
+- Exploratory data analysis
+- Reproducible workflows in R/Python
+
+## Creating Reports in Positron
+
+- Automated report generation
+- Integrating analysis and interpretation
+- Quarto document workflows
+- Publication-ready outputs
+
+## Research Questions
+
+**Investigating:**
+
+- How does AI change the analysis workflow?
+- What is the quality of AI-generated code?
+- Can AI improve reproducibility?
+- What are the learning implications?
+
+# Bringing It Together {background-color="#9B59B6"}
+
+## Common Threads
+
+All three areas demonstrate:
+
+- AI as a collaborative partner
+- Focus on process and development
+- Emphasis on transparency (GitHub, Teams)
+- Supporting learning and growth
+
+## The Multi-Tool Approach
+
+**Key insight:** Different AI tools for different tasks
+
+- Teaching development
+- Student coaching
+- Research workflows
+
+Integration is essential!
+
+## Questions & Discussion
+
+**Sharon Klinkenberg**  
+UvA, FMG  
+Lecturer in Methods & Techniques  
+Head of TLC FMG
+
+Contact: s.klinkenberg@uva.nl
+
+---
+
+## Thank You!
+
+VU AI Show and Share  
+February 11, 2026
