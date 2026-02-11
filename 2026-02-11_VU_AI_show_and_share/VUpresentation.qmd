@@ -163,7 +163,7 @@ Head of TLC FMG
 
 Contact: s.klinkenberg@uva.nl
 
-![](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://github.com/shklinkenberg/2026-02-11_VU_AI_show_and_share/blob/main/VUpresentation.qmd)
+![](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://shklinkenberg.github.io/presentations/2026-02-11_VU_AI_show_and_share/VUpresentation.html)
 
 
 
