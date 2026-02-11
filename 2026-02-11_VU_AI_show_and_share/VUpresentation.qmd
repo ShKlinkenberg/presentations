@@ -62,10 +62,10 @@ Lecturer in methods and techniques and head of TLC FMG at UvA
 
 **Assessment design with AI:**
 
-- Generate questions aligned with objectives
-- Create multiple choice distractors
-- Vary difficulty levels
-- Build comprehensive answer keys
+- Generate question ideas from learning objectives
+- Create graphs and visualizations for questions
+- Develop comprehensive answer models
+- Iterate on question quality and alignment
 
 # Topic 2: Thesis Supervision with MS Teams {background-color="#50C878"}
 
@@ -162,6 +162,10 @@ Lecturer in Methods & Techniques
 Head of TLC FMG
 
 Contact: s.klinkenberg@uva.nl
+
+![](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://github.com/shklinkenberg/2026-02-11_VU_AI_show_and_share/blob/main/VUpresentation.qmd)
+
+
 
 ---
 
