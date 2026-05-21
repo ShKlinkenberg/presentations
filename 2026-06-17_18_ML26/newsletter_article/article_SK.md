@@ -1,10 +1,17 @@
-# Multimodal learning: where technology meets pedagogy  
+---
+title: "Multimodal learning: where technology meets pedagogy"
+author: 
+  - Sharon Klinkenberg
+  - AI-assisted
+format: html
+---
 
 When I look at how my students learn today, one thing is immediately clear: there is no such thing as a typical learner anymore. In the same course, I will see one student reading carefully on a laptop, another listening to audio while commuting, and a third jumping straight into practice questions on a phone.
 
 As an educational technologist, teacher, researcher, and director of a Teaching and Learning Centre, I have stopped asking which medium is best and started asking a different question: how can we design for many ways of learning at once. That is at the heart of my keynote on multimodal learning, where technology and pedagogy meet in a very practical way to support student success.
 
-![Digital Campus - AI generated](images/digital_campus.png)
+![](images/digital_campus.png)
+Digital Campus - AI generated <a class="btn btn-outline-primary" href="images/digital_campus.png" download>Download</a>
 
 For decades, higher education has been built around one size fits all teaching: one lecture, one textbook, one exam. But learners do not arrive as blank slates, and they certainly do not all thrive in the same format. Personalized learning, for me, is not the fantasy of building a fully custom course for every student. That is neither realistic nor sustainable. Instead, it means creating well designed educational pathways with a rich mix of media, so that students can engage with content in different ways without losing sight of the learning goals.
 
@@ -17,6 +24,7 @@ At the same time, we are at a turning point where media is no longer something t
 If we provide too much guidance, students become passive and wait for us, or for the AI, to do the thinking for them. If we provide too much autonomy, students can feel lost and unsure about what good learning looks like. In my work, I experiment with AI as a guided companion rather than an answer machine. For example, an AI chat environment that is connected to the course materials and learning objectives can help students clarify goals in their own words, get tailored explanations at the right level, and generate practice questions while still being asked to justify their answers.
 
 ![Guided Companion - AI generated](images/guided_companion.png)
+Guided Companion - AI generated <a class="btn btn-outline-primary" href="images/guided_companion.png" download>Download</a>
 
 Alongside this, tools like AI powered notebook environments give learners more control over how they organize resources, connect ideas, and ask deeper questions. Here the role of the educator shifts. I no longer see myself primarily as a content deliverer, but as a learning architect. My job is to design the space, the personas, and the constraints within which students and AI can interact in a way that supports genuine learning rather than shortcuts.
 
@@ -30,11 +38,12 @@ For educational designers, this creates a demanding but exciting design challeng
 
 ## Open Educational Resources
 
-All of this only makes sense if we also talk about sustainability and responsibility. As we embrace new media and artificial intelligence, we must ask whether we are building tools and content that can be reused, remixed, and improved over time. Are we empowering teachers and students to contribute, or are we locking them into closed systems that are difficult to adapt.
+As we embrace new media and artificial intelligence, we must ask whether we are building tools and content that can be reused, remixed, and improved over time. Are we empowering teachers and students to contribute, or are we locking them into closed systems that are difficult to adapt.
 
 I often describe my preferred approach as the [Lego approach](https://podcasts.apple.com/nl/podcast/the-learning-curve/id1689174879?l=en-GB&i=1000662280575). We design small, robust building blocks: activities, media elements, assessment items. These blocks can be combined in many different ways for different courses and contexts. Open educational resources play a key role here. When we share not only content, but also design patterns and examples, innovation stops being an isolated effort by a few enthusiasts and becomes a shared project. The sum can genuinely be greater than the parts if we design for openness and reuse from the beginning.
 
-![Building Blocks - AI generated](images/buildingblox.png)
+![](images/buildingblox.png)
+Building Blocks - AI generated <a class="btn btn-outline-primary" href="images/guided_companion.png" download>Download</a>
 
 This requires a shift in mindset. We need to think in terms of a shared ecosystem of learning experiences. Collaboration becomes more important than ownership. That is not always easy in institutions that are used to ranking, evaluation, and individual achievement, but it is essential if we want technology and pedagogy to grow together in a sustainable way.  
 
