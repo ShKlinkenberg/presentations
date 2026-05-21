@@ -28,7 +28,7 @@ Guided Companion - AI generated <a class="btn btn-outline-primary" href="images/
 
 Alongside this, tools like AI powered notebook environments give learners more control over how they organize resources, connect ideas, and ask deeper questions. Here the role of the educator shifts. I no longer see myself primarily as a content deliverer, but as a learning architect. My job is to design the space, the personas, and the constraints within which students and AI can interact in a way that supports genuine learning rather than shortcuts.
 
-## Assessment driven learning
+## Assessment Driven Learning
 
 If assessment drives learning, then we also have to rethink the way we assess. Traditional exams often reward short term memorization and fast recall under pressure. They rarely resemble the kind of thoughtful, iterative problem solving we want graduates to be capable of in real life. In my keynote, I will show how authentic, multimedia rich assessment can function as e learning in itself.
 
