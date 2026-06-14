@@ -1,13 +1,16 @@
 ---
-title: "Co-Creating the Future of Learning" 
-author: "Dr. Klinkenberg"
+title: "Multimodal learning"
+subtitle: "where technology meets pedagogy" 
+author: "Dr. Sharon Klinkenberg"
 date: "17 jun 2026"
+bibliography: lit.bib
+csl: ../apa.csl
 format:
- pdf:
-   toc: true
-   number-sections: false
-   colorlinks: true
-   brand: _brand.yml
+#  pdf:
+#    toc: true
+#    number-sections: false
+#    colorlinks: true
+#    brand: _brand.yml
  revealjs:
    theme: [default]
    transition: slide
@@ -17,71 +20,33 @@ format:
    link-external-newwindow: true
 ---
 
-# Introduction {data-background="#bc0031"}
+# Personalized Learning and Media Diversity {data-background="newsletter_article/images/digital_campus.png" data-background-color="black" style="background-color: rgba(0, 0, 0, 0.5) !important; padding:10px; border-radius: 10px;"}
 
-::: notes
+::: {.notes}
+
 Goal: inspire, but also be realistic about what works and what doesn't. Audience: ICT professionals
 
 * Researcher
 * Teacher
 * Educational technologist
 * Director TLC
-:::
 
-## Overview {.smaller}
-
-::: {style="transform: scale(0.8);"}
-
-:::: {.columns}
-
-::: {.column width="50%"}
-
-**Personalized Learning and Media Diversity**
-
-- One-size-fits-all vs One-of-a-kind
-- Narratives across modalities
-- Through the learner’s eyes (or ears)
-- Learning Without Borders
-
-**Emerging Technologies and AI in Education**
-
-- From passive media to generative co-creation
-- Augmented agency: learners, media agents & AI companions
-- Learning analytics–driven media iteration & feedback loops
-- Future-ready media skills
+* One-size-fits-all vs One-of-a-kind
+* Narratives across modalities
+* Through the learner’s eyes (or ears)
+* Learning Without Borders
 
 :::
 
-::: {.column width="50%"}
-
-**Assessment and Cognitive Design**
-
-- Rethinking assessment: from exams to experiences
-- Gamification & playful design
-- Cognition without overload
-
-**Sustainability and Responsibility in Media**
-
-- Media, memory & futures
-- Responsibility by design: evidence and myths in learning technology
-- Beyond the degree
-
-:::
-
-::::
-
-:::
-
-# Personalized Learning and Media Diversity
 
 ## What is personalized learning?
 
 * Do we need to tailor education?
-* Multimodal learning materials
+* Multimodal learning<br><small>[@harun2024systematic, @olivier2022multimodal]</small>
   * Text, video, audio 
   * Interactive widgets
   * Assessment tools
-* Analyzing what works
+* Analyzing what works<br><small>[@guerrerososa2025comprehensive]</small>
 * Learning anywhere, anytime
 
 ::: {.absolute top=50 left=500 width="60%" height="60%" style="transform: perspective(850px) rotateY(-50deg);"}
@@ -89,7 +54,16 @@ Goal: inspire, but also be realistic about what works and what doesn't. Audience
 [OER ebook](https://shklinkenberg.github.io/Statistical-Inference/){}
 :::
 
-# Emerging Technologies and AI in Education
+# Balancing Guidance and Autonomy {data-background="newsletter_article/images/guided_companion.png" data-background-color="black" style="background-color: rgba(0, 0, 0, 0.5) !important; padding:10px; border-radius: 10px;"}
+
+::: {.notes}
+
+* From passive media to generative co-creation<br><small>[@babayev2025algorithmic]</small>
+* Augmented agency: learners, media agents & AI companions<br><small>[@achuthan2025ai]</small>
+* Learning analytics–driven media iteration & feedback loops
+* Future-ready media skills
+
+:::
 
 ## Didactics vs self-regulated learning
 
@@ -103,14 +77,22 @@ Goal: inspire, but also be realistic about what works and what doesn't. Audience
 NotebookML
 :::
 
-# Assessment and Cognitive Design
+# Assessment Driven Learning
+
+::: {.notes}
+
+* Rethinking assessment: from exams to experiences
+* Gamification & playful design
+* Cognition without overload
+
+:::
 
 ## Assessment drives learning
 
 * Assessmeent as e-learning
 * Connection to learning goals
 * Formative and summative
-  * Authentic assessment
+  * Authentic assessment<br><small>[@midgette2025understanding]</small>
 
 ::: {.absolute top=50 left=500 width="60%" height="60%" style="transform: perspective(850px) rotateY(-50deg);"}
 ![](images/canvas.png)
@@ -119,9 +101,17 @@ NotebookML
 
 
 
-# Sustainability and Responsibility in Media
+# Open Educational Resources {data-background="newsletter_article/images/buildingblox.png" data-background-color="black" style="background-color: rgba(0, 0, 0, 0.5) !important; padding:10px; border-radius: 10px;"}
 
-## Doing it right
+::: {.notes}
+
+* Media, memory & futures
+* Responsibility by design: evidence and myths in learning technology
+* Beyond the degree
+
+:::
+
+## Sustainability and Responsibility in Media
 
 * The Lego approach
 * Open educational resources
@@ -133,4 +123,28 @@ NotebookML
 [ShareStats](https://github.com/ShareStats)
 :::
 
+# Follow the TLC Podcast
+
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/0XnrZOs2heUfVf5GUWaqjZ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+:::
+
+::: {.column width="40%"}
+
+![](../2024-11-13-OWD24-formatief-diagnostisch/images/TLC-Podcast-QR.png)
+
+:::
+
+::::
+
 {{< include ../about.qmd >}}
+
+# References {.scrollable}
+
+::: {#refs}
+:::
