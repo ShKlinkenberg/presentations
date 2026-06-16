@@ -2,7 +2,7 @@
 title: "Multimodal learning"
 subtitle: "Where technology meets pedagogy" 
 author: "Dr. Sharon Klinkenberg"
-footer: "Klinkenberg"
+footer: "edu.nl/yae7w"
 date: "17 jun 2026"
 bibliography: lit.bib
 csl: ../apa.csl
@@ -151,3 +151,4 @@ NotebookML
 
 {{< include ../about.qmd >}}
 
+![](https://edu.nl/yae7w~?format=svg){.absolute top=150 right=0}
