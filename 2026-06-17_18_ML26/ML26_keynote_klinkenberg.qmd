@@ -98,7 +98,7 @@ NotebookML
 
 ::: {.absolute top=50 left=500 width="60%" height="60%" style="transform: perspective(850px) rotateY(-50deg);"}
 ![](images/canvas.png)
-[canvas quiz](https://canvas.uva.nl/courses/54004/quizzes/119541/take?preview=1)
+[canvas quiz](https://canvas.uva.nl/courses/54004/quizzes/119548)
 :::
 
 
@@ -118,7 +118,7 @@ NotebookML
 * The Lego approach
 * Open Educational Resources<br><small>[@romeroariza2025oer]</small>
 * The sum is greater than the parts
-* Collaboration over competition
+* Collaboration over competition<br><small>[LEAP-VU](https://120526-leeromgevingreplit.replit.app/login)</small>
 
 ::: {.absolute top=50 left=500 width="60%" height="60%" style="transform: perspective(850px) rotateY(-50deg);"}
 ![](images/sharestatsGitHub.png)
