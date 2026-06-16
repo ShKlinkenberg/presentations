@@ -1,7 +1,8 @@
 ---
 title: "Multimodal learning"
-subtitle: "where technology meets pedagogy" 
+subtitle: "Where technology meets pedagogy" 
 author: "Dr. Sharon Klinkenberg"
+footer: "Klinkenberg"
 date: "17 jun 2026"
 bibliography: lit.bib
 csl: ../apa.csl
@@ -67,17 +68,20 @@ Goal: inspire, but also be realistic about what works and what doesn't. Audience
 
 ## Didactics vs self-regulated learning
 
-* Balancing [guidance](https://aichat.uva.nl) and [autonomy](https://notebooklm.google.com/notebook/d2dd569f-95eb-4487-ab18-2a71c83b3d25)
+* Balancing [guidance](https://aichat.uva.nl/persona) and [autonomy](https://notebooklm.google.com/notebook/d2dd569f-95eb-4487-ab18-2a71c83b3d25)
 * Educational design vs learner control
 * Actionable learning goals
 * Self-regulated learning skills
 
+
+
 ::: {.absolute top=50 left=500 width="60%" height="60%" style="transform: perspective(850px) rotateY(-50deg);"}
+
 ![](images/notebookML.png)
 NotebookML
 :::
 
-# Assessment Driven Learning
+## Assessment drives learning
 
 ::: {.notes}
 
@@ -86,8 +90,6 @@ NotebookML
 * Cognition without overload
 
 :::
-
-## Assessment drives learning
 
 * Assessmeent as e-learning
 * Connection to learning goals
@@ -111,16 +113,21 @@ NotebookML
 
 :::
 
-## Sustainability and Responsibility in Media
+## Sustainability and Responsibility
 
 * The Lego approach
-* Open educational resources
+* Open Educational Resources<br><small>[@romeroariza2025oer]</small>
 * The sum is greater than the parts
 * Collaboration over competition
 
 ::: {.absolute top=50 left=500 width="60%" height="60%" style="transform: perspective(850px) rotateY(-50deg);"}
 ![](images/sharestatsGitHub.png)
 [ShareStats](https://github.com/ShareStats)
+:::
+
+# References {.scrollable}
+
+::: {#refs}
 :::
 
 # Follow the TLC Podcast
@@ -144,7 +151,3 @@ NotebookML
 
 {{< include ../about.qmd >}}
 
-# References {.scrollable}
-
-::: {#refs}
-:::
