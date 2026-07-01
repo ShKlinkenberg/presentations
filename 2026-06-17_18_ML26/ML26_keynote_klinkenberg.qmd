@@ -14,11 +14,13 @@ format:
 #    brand: _brand.yml
  revealjs:
    theme: [default]
+   controls: true
    transition: slide
    background-transition: fade
    preview-links: false
    slide-number: true
    link-external-newwindow: true
+   
 ---
 
 # Personalized Learning and Media Diversity {data-background="newsletter_article/images/digital_campus.png" data-background-color="black" style="background-color: rgba(0, 0, 0, 0.5) !important; padding:10px; border-radius: 10px;"}
